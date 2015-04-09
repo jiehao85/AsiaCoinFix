@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>593</width>
-    <height>331</height>
+    <width>743</width>
+    <height>351</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -94,7 +94,7 @@
         <string>
 Copyright © 2009-2012 Bitcoin Developers
 Copyright © 2012 PPCoin Developers
-Copyright © 2014 AsiaCoin Foundation
+Copyright © 2014 AsiaCoin Developers
 </string>
        </property>
        <property name="textInteractionFlags">
@@ -108,15 +108,12 @@ Copyright © 2014 AsiaCoin Foundation
         <cursorShape>IBeamCursor</cursorShape>
        </property>
        <property name="text">
-        <string>         
-BCT thread : https://bitcointalk.org/index.php?topic=595999.0
-Website : http://www.thecoin.asia
-Source: https://github.com/micryon/AsiaCoinFix
-
-Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
-This product includes software developed by the OpenSSL 1.0.1g (heartbleed patched) Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</string>
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;BCT thread : &lt;a href=&quot;https://bitcointalk.org/index.php?topic=595999.0&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://bitcointalk.org/index.php?topic=595999.0&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Website : &lt;a href=&quot;http://www.thecoin.asia&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://www.thecoin.asia&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Source: &lt;a href=&quot;https://github.com/micryon/AsiaCoinFix&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://github.com/micryon/AsiaCoinFix&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Distributed under the MIT/X11 software license, see the accompanying file COPYING or &lt;a href=&quot;http://www.opensource.org/licenses/mit-license.php&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://www.opensource.org/licenses/mit-license.php&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This product includes software developed by the OpenSSL (heartbleed patched) Project for use in the OpenSSL Toolkit (&lt;a href=&quot;http://www.openssl.org/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://www.openssl.org/&lt;/span&gt;&lt;/a&gt;) and cryptographic software written by Eric Young (&lt;a href=&quot;eay@cryptsoft.com&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;eay@cryptsoft.com&lt;/span&gt;&lt;/a&gt;) and UPnP software written by Thomas Bernard.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
        </property>
        <property name="wordWrap">
+        <bool>true</bool>
+       </property>
+       <property name="openExternalLinks">
         <bool>true</bool>
        </property>
        <property name="textInteractionFlags">
