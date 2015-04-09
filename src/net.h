@@ -19,6 +19,9 @@
 #include "protocol.h"
 #include "addrman.h"
 
+// only request blocks from nodes >= BLK_VERSION
+static const int BLKS_VERSION = 60006;
+
 class CRequestTracker;
 class CNode;
 class CBlockIndex;
@@ -196,6 +199,7 @@ public:
     CBlockIndex* pindexLastGetBlocksBegin;
     uint256 hashLastGetBlocksEnd;
     int nStartingHeight;
+    bool fStartSync;
 
     // flood relay
     std::vector<CAddress> vAddrToSend;
@@ -236,6 +240,7 @@ public:
         pindexLastGetBlocksBegin = 0;
         hashLastGetBlocksEnd = 0;
         nStartingHeight = -1;
+        fStartSync = false;
         fGetAddr = false;
         nMisbehavior = 0;
         hashCheckpointKnown = 0;
