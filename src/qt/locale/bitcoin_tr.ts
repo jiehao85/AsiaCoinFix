@@ -828,220 +828,284 @@ Adres: %4
 <context>
     <name>CoinControlDialog</name>
     <message>
+        <location filename="../forms/coincontroldialog.ui" line="+14"/>
         <source>Coin Control</source>
-        <translation type="obsolete">Coin Kontrolü</translation>
+        <translation type="unfinished">Coin Kontrolü</translation>
     </message>
     <message>
+        <location line="+31"/>
         <source>Quantity:</source>
-        <translation type="obsolete">Adet:</translation>
+        <translation type="unfinished">Adet:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+32"/>
+        <source>0</source>
+        <translation type="unfinished">0</translation>
+    </message>
+    <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">Bayt:</translation>
+        <translation type="unfinished">Bayt:</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Amount:</source>
-        <translation type="obsolete">Miktar:</translation>
+        <translation type="unfinished">Miktar:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+80"/>
+        <location line="+86"/>
+        <location line="+38"/>
+        <source>0.00 NVC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">Öncelik:</translation>
+        <translation type="unfinished">Öncelik:</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Fee:</source>
-        <translation type="obsolete">Ücret:</translation>
+        <translation type="unfinished">Ücret:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">Düşük Çıktı:</translation>
+        <translation type="unfinished">Düşük Çıktı:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location filename="../coincontroldialog.cpp" line="+555"/>
         <source>no</source>
-        <translation type="obsolete">hayır</translation>
+        <translation type="unfinished">hayır</translation>
     </message>
     <message>
+        <location line="+29"/>
         <source>After Fee:</source>
-        <translation type="obsolete">Ücretten sonra:</translation>
+        <translation type="unfinished">Ücretten sonra:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change:</source>
-        <translation type="obsolete">Para üstü:</translation>
+        <translation type="unfinished">Para üstü:</translation>
     </message>
     <message>
+        <location line="+69"/>
         <source>(un)select all</source>
-        <translation type="obsolete">tümünü seç(me)</translation>
+        <translation type="unfinished">tümünü seç(me)</translation>
     </message>
     <message>
+        <location line="+13"/>
         <source>Tree mode</source>
-        <translation type="obsolete">Ağaç kipi</translation>
+        <translation type="unfinished">Ağaç kipi</translation>
     </message>
     <message>
+        <location line="+16"/>
         <source>List mode</source>
-        <translation type="obsolete">Liste kipi</translation>
+        <translation type="unfinished">Liste kipi</translation>
     </message>
     <message>
+        <location line="+45"/>
         <source>Amount</source>
-        <translation type="obsolete">Miktar</translation>
+        <translation type="unfinished">Miktar</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Label</source>
-        <translation type="obsolete">Etiket</translation>
+        <translation type="unfinished">Etiket</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Address</source>
-        <translation type="obsolete">Adres</translation>
+        <translation type="unfinished">Adres</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Date</source>
-        <translation type="obsolete">Tarih</translation>
+        <translation type="unfinished">Tarih</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Confirmations</source>
-        <translation type="obsolete">Onaylar</translation>
+        <translation type="unfinished">Onaylar</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Confirmed</source>
-        <translation type="obsolete">Onaylandı</translation>
+        <translation type="unfinished">Onaylandı</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Priority</source>
-        <translation type="obsolete">Öncelik</translation>
+        <translation type="unfinished">Öncelik</translation>
     </message>
     <message>
+        <location filename="../coincontroldialog.cpp" line="-519"/>
         <source>Copy address</source>
-        <translation type="obsolete">Adresi kopyala</translation>
+        <translation type="unfinished">Adresi kopyala</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy label</source>
-        <translation type="obsolete">Etiketi kopyala</translation>
+        <translation type="unfinished">Etiketi kopyala</translation>
     </message>
     <message>
+        <location line="+1"/>
+        <location line="+26"/>
         <source>Copy amount</source>
-        <translation type="obsolete">Miktarı kopyala</translation>
+        <translation type="unfinished">Miktarı kopyala</translation>
     </message>
     <message>
+        <location line="-25"/>
         <source>Copy transaction ID</source>
-        <translation type="obsolete">İşlem Numarasını Kopyala</translation>
+        <translation type="unfinished">İşlem Numarasını Kopyala</translation>
     </message>
     <message>
+        <location line="+24"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">Adedi kopyala</translation>
+        <translation type="unfinished">Adedi kopyala</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Copy fee</source>
-        <translation type="obsolete">Ücreti kopyala</translation>
+        <translation type="unfinished">Ücreti kopyala</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">Ücretten sonrakini kopyala</translation>
+        <translation type="unfinished">Ücretten sonrakini kopyala</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">Baytları kopyala</translation>
+        <translation type="unfinished">Baytları kopyala</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">Önceliği kopyala</translation>
+        <translation type="unfinished">Önceliği kopyala</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">Düşük çıktıyı kopyala</translation>
+        <translation type="unfinished">Düşük çıktıyı kopyala</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">Para üstünü kopyala</translation>
+        <translation type="unfinished">Para üstünü kopyala</translation>
     </message>
     <message>
+        <location line="+321"/>
         <source>highest</source>
-        <translation type="obsolete">en yüksek</translation>
+        <translation type="unfinished">en yüksek</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>high</source>
-        <translation type="obsolete">yüksek</translation>
+        <translation type="unfinished">yüksek</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium-high</source>
-        <translation type="obsolete">orta-yüksek</translation>
+        <translation type="unfinished">orta-yüksek</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium</source>
-        <translation type="obsolete">orta</translation>
+        <translation type="unfinished">orta</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>low-medium</source>
-        <translation type="obsolete">düşük-orta</translation>
+        <translation type="unfinished">düşük-orta</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>low</source>
-        <translation type="obsolete">düşük</translation>
+        <translation type="unfinished">düşük</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>lowest</source>
-        <translation type="obsolete">en düşük</translation>
+        <translation type="unfinished">en düşük</translation>
     </message>
     <message>
+        <location line="+155"/>
         <source>DUST</source>
-        <translation type="obsolete">BOZUKLUK</translation>
+        <translation type="unfinished">BOZUKLUK</translation>
     </message>
     <message>
+        <location line="+0"/>
         <source>yes</source>
-        <translation type="obsolete">evet</translation>
+        <translation type="unfinished">evet</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>This label turns red, if the transaction size is bigger than 10000 bytes.
 
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation type="obsolete">İşlem büyüklüğü 10000 bayttan büyükse, bu etiket kırmızıya dönüşür.
+        <translation type="unfinished">İşlem büyüklüğü 10000 bayttan büyükse, bu etiket kırmızıya dönüşür.
 
  Bu, kb başına en az %1 ücret gerektiği anlamına gelir.
 
  Girdi başına +/- 1 Byte değişkenlik gösterebilir.</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Transactions with higher priority get more likely into a block.
 
 This label turns red, if the priority is smaller than &quot;medium&quot;.
 
  This means a fee of at least %1 per kb is required.</source>
-        <translation type="obsolete">Yüksek öncelikli işlemler, daha yüksek ihtimalle bir bloğa düşer.
+        <translation type="unfinished">Yüksek öncelikli işlemler, daha yüksek ihtimalle bir bloğa düşer.
 
 Öncelik &quot;orta&quot; seviyeden düşükse, bu etiket kırmızıya döner.
 
  Bu, kb başına en az %1 ücret gerektiği anlamına gelir.</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>This label turns red, if any recipient receives an amount smaller than %1.
 
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation type="obsolete">Eğer herhangi bir alıcı, %1&apos;den daha küçük bir miktar alırsa, bu etiket kırmızıya dönüşür.
+        <translation type="unfinished">Eğer herhangi bir alıcı, %1&apos;den daha küçük bir miktar alırsa, bu etiket kırmızıya dönüşür.
 
  Bu, en az %2 bir ücretin gerektiği anlamına gelir. 
 
  Minimum aktarım ücretinin 0.546 katından düşük miktarlar, BOZUKLUK olarak gösterilir.</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation type="obsolete">Eğer para üstü %1&apos;den küçükse, bu etiket kırmızıya dönüşür.
+        <translation type="unfinished">Eğer para üstü %1&apos;den küçükse, bu etiket kırmızıya dönüşür.
 
  Bu, en az %2 bir ücretin gerektiği anlamına gelir.</translation>
     </message>
     <message>
+        <location line="+37"/>
+        <location line="+66"/>
         <source>(no label)</source>
-        <translation type="obsolete">(boş etiket)</translation>
+        <translation type="unfinished">(boş etiket)</translation>
     </message>
     <message>
+        <location line="-9"/>
         <source>change from %1 (%2)</source>
-        <translation type="obsolete">%1 unsurundan para üstü (%2)</translation>
+        <translation type="unfinished">%1 unsurundan para üstü (%2)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>(change)</source>
-        <translation type="obsolete">(para üstü)</translation>
+        <translation type="unfinished">(para üstü)</translation>
     </message>
 </context>
 <context>
@@ -1350,15 +1414,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>Bitcoin gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Whether to show coin control features or not.</source>
-        <translation type="obsolete">Para kontrol özelliklerinin gösterilip gösterilmeyeceğini ayarlar.</translation>
+        <translation type="unfinished">Para kontrol özelliklerinin gösterilip gösterilmeyeceğini ayarlar.</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation type="obsolete">Coin &amp;kontrol özelliklerini göster (sadece uzman kişiler!)</translation>
+        <translation type="unfinished">Coin &amp;kontrol özelliklerini göster (sadece uzman kişiler!)</translation>
     </message>
     <message>
-        <location line="+83"/>
+        <location line="+71"/>
         <source>&amp;OK</source>
         <translation>&amp;Tamam</translation>
     </message>
@@ -1378,7 +1444,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>varsayılan</translation>
     </message>
     <message>
-        <location line="+147"/>
+        <location line="+148"/>
         <location line="+9"/>
         <source>Warning</source>
         <translation>Uyarı</translation>
@@ -1728,7 +1794,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>SendCoinsDialog</name>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="+14"/>
-        <location filename="../sendcoinsdialog.cpp" line="+124"/>
+        <location filename="../sendcoinsdialog.cpp" line="+179"/>
         <location line="+5"/>
         <location line="+5"/>
         <location line="+5"/>
@@ -1739,75 +1805,100 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>Bitcoin yolla</translation>
     </message>
     <message>
+        <location line="+76"/>
         <source>Coin Control Features</source>
-        <translation type="obsolete">Para kontrolü özellikleri</translation>
+        <translation type="unfinished">Para kontrolü özellikleri</translation>
     </message>
     <message>
+        <location line="+20"/>
         <source>Inputs...</source>
-        <translation type="obsolete">Girdiler...</translation>
+        <translation type="unfinished">Girdiler...</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>automatically selected</source>
-        <translation type="obsolete">otomatik seçilmiş</translation>
+        <translation type="unfinished">otomatik seçilmiş</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="obsolete">Yetersiz fon!</translation>
+        <translation type="unfinished">Yetersiz fon!</translation>
     </message>
     <message>
+        <location line="+77"/>
         <source>Quantity:</source>
-        <translation type="obsolete">Miktar:</translation>
+        <translation type="unfinished">Miktar:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+35"/>
         <source>0</source>
-        <translation type="obsolete">0</translation>
+        <translation type="unfinished">0</translation>
     </message>
     <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">Bayt:</translation>
+        <translation type="unfinished">Bayt:</translation>
     </message>
     <message>
+        <location line="+51"/>
         <source>Amount:</source>
-        <translation type="obsolete">Meblağ:</translation>
+        <translation type="unfinished">Meblağ:</translation>
     </message>
     <message>
         <source>0.00 BC</source>
         <translation type="obsolete">123.456 BC {0.00 ?}</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+86"/>
+        <location line="+86"/>
+        <location line="+32"/>
+        <source>0.00 BTC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">Öncelik:</translation>
+        <translation type="unfinished">Öncelik:</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>medium</source>
-        <translation type="obsolete">orta</translation>
+        <translation type="unfinished">orta</translation>
     </message>
     <message>
+        <location line="+32"/>
         <source>Fee:</source>
-        <translation type="obsolete">Ücret:</translation>
+        <translation type="unfinished">Ücret:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">Düşük çıktı:</translation>
+        <translation type="unfinished">Düşük çıktı:</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>no</source>
-        <translation type="obsolete">hayır</translation>
+        <translation type="unfinished">hayır</translation>
     </message>
     <message>
+        <location line="+32"/>
         <source>After Fee:</source>
-        <translation type="obsolete">Ücretten sonra:</translation>
+        <translation type="unfinished">Ücretten sonra:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change</source>
-        <translation type="obsolete">Değiştir</translation>
-    </message>
-    <message>
-        <source>custom change address</source>
-        <translation type="obsolete">özel adres değişikliği</translation>
+        <translation type="unfinished">Değiştir</translation>
     </message>
     <message>
         <location line="+50"/>
+        <source>custom change address</source>
+        <translation type="unfinished">özel adres değişikliği</translation>
+    </message>
+    <message>
+        <location line="+106"/>
         <source>Send to multiple recipients at once</source>
         <translation>Birçok alıcıya aynı anda gönder</translation>
     </message>
@@ -1833,7 +1924,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 AC</source>
+        <source>123.456 BTC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1855,39 +1946,52 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation type="obsolete">Bir Asiacoin adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
+        <location filename="../sendcoinsdialog.cpp" line="-173"/>
+        <source>Enter a valid AsiaCoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">Miktarı kopyala</translation>
+        <translation type="unfinished">Miktarı kopyala</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="obsolete">Meblağı kopyala</translation>
+        <translation type="unfinished">Meblağı kopyala</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy fee</source>
-        <translation type="obsolete">Ücreti kopyala</translation>
+        <translation type="unfinished">Ücreti kopyala</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">Ücretten sonrakini kopyala</translation>
+        <translation type="unfinished">Ücretten sonrakini kopyala</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">Baytları kopyala</translation>
+        <translation type="unfinished">Baytları kopyala</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">Önceliği kopyala</translation>
+        <translation type="unfinished">Önceliği kopyala</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">Düşük çıktıyı kopyala</translation>
+        <translation type="unfinished">Düşük çıktıyı kopyala</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">Para üstünü kopyala</translation>
+        <translation type="unfinished">Para üstünü kopyala</translation>
     </message>
     <message>
-        <location filename="../sendcoinsdialog.cpp" line="-59"/>
+        <location line="+86"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
         <translation>&lt;b&gt;%1&lt;/b&gt; %2&apos;ye (%3)</translation>
     </message>
@@ -1907,7 +2011,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>ve</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+29"/>
         <source>The recipient address is not valid, please recheck.</source>
         <translation>Alıcı adresi geçerli değildir, lütfen denetleyiniz.</translation>
     </message>
@@ -1942,16 +2046,23 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>Hata: İşlem reddedildi. Bu, örneğin wallet.dat dosyasının bir kopyasını kullandıysanız ve coinler, kopyada harcanmış ve burada harcanmış olarak işaretlenmemişse, cüzdanınızdaki coinlerin bir bölümünün harcanması nedeniyle olabilir. </translation>
     </message>
     <message>
+        <location line="+250"/>
+        <source>WARNING: Invalid Bitcoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WARNING: Invalid Asiacoin address</source>
         <translation type="obsolete">UYARI: Geçersiz Asiacoin adresi</translation>
     </message>
     <message>
+        <location line="+13"/>
         <source>(no label)</source>
-        <translation type="obsolete">(boş etiket)</translation>
+        <translation type="unfinished">(boş etiket)</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation type="obsolete">UYARI: bilinmeyen adres değişikliği</translation>
+        <translation type="unfinished">UYARI: bilinmeyen adres değişikliği</translation>
     </message>
 </context>
 <context>
@@ -2753,7 +2864,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 <context>
     <name>WalletModel</name>
     <message>
-        <location filename="../walletmodel.cpp" line="+199"/>
+        <location filename="../walletmodel.cpp" line="+206"/>
         <source>Sending...</source>
         <translation>Gönderiyor...</translation>
     </message>

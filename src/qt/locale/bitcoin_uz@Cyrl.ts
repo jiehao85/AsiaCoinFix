@@ -793,23 +793,23 @@ Address: %4
     <name>CoinControlDialog</name>
     <message>
         <source>Quantity:</source>
-        <translation type="obsolete">Сони:</translation>
+        <translation type="unfinished">Сони:</translation>
     </message>
     <message>
         <source>Bytes:</source>
-        <translation type="obsolete">Байт:</translation>
+        <translation type="unfinished">Байт:</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation type="obsolete">Миқдори:</translation>
+        <translation type="unfinished">Миқдори:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="obsolete">Муҳимлиги:</translation>
+        <translation type="unfinished">Муҳимлиги:</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation type="obsolete">Солиқ:</translation>
+        <translation type="unfinished">Солиқ:</translation>
     </message>
     <message>
         <source>Dust:</source>
@@ -817,59 +817,59 @@ Address: %4
     </message>
     <message>
         <source>After Fee:</source>
-        <translation type="obsolete">Солиқдан сўнг:</translation>
+        <translation type="unfinished">Солиқдан сўнг:</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation type="obsolete">Ўзгартириш:</translation>
+        <translation type="unfinished">Ўзгартириш:</translation>
     </message>
     <message>
         <source>(un)select all</source>
-        <translation type="obsolete">барчасини танаш (бекор қилиш)</translation>
+        <translation type="unfinished">барчасини танаш (бекор қилиш)</translation>
     </message>
     <message>
         <source>Tree mode</source>
-        <translation type="obsolete">Дарахт усулида</translation>
+        <translation type="unfinished">Дарахт усулида</translation>
     </message>
     <message>
         <source>List mode</source>
-        <translation type="obsolete">Рўйхат усулида</translation>
+        <translation type="unfinished">Рўйхат усулида</translation>
     </message>
     <message>
         <source>Amount</source>
-        <translation type="obsolete">Миқдори</translation>
+        <translation type="unfinished">Миқдори</translation>
     </message>
     <message>
         <source>Date</source>
-        <translation type="obsolete">Сана</translation>
+        <translation type="unfinished">Сана</translation>
     </message>
     <message>
         <source>Confirmations</source>
-        <translation type="obsolete">Тасдиқлашлар</translation>
+        <translation type="unfinished">Тасдиқлашлар</translation>
     </message>
     <message>
         <source>Confirmed</source>
-        <translation type="obsolete">Тасдиқланди</translation>
+        <translation type="unfinished">Тасдиқланди</translation>
     </message>
     <message>
         <source>Priority</source>
-        <translation type="obsolete">Муҳимлиги</translation>
+        <translation type="unfinished">Муҳимлиги</translation>
     </message>
     <message>
         <source>Copy address</source>
-        <translation type="obsolete">Манзилни нусхалаш</translation>
+        <translation type="unfinished">Манзилни нусхалаш</translation>
     </message>
     <message>
         <source>Copy label</source>
-        <translation type="obsolete">Ёрликни нусхала</translation>
+        <translation type="unfinished">Ёрликни нусхала</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation type="obsolete">Кийматни нусхала</translation>
+        <translation type="unfinished">Кийматни нусхала</translation>
     </message>
     <message>
         <source>Copy transaction ID</source>
-        <translation type="obsolete">Ўтказам рақамидан нусха олиш</translation>
+        <translation type="unfinished">Ўтказам рақамидан нусха олиш</translation>
     </message>
     <message>
         <source>Lock unspent</source>
@@ -881,23 +881,23 @@ Address: %4
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation type="obsolete">Нусха сони</translation>
+        <translation type="unfinished">Нусха сони</translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation type="obsolete">Нусха солиғи</translation>
+        <translation type="unfinished">Нусха солиғи</translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation type="obsolete">Нусха солиқдан сўнг</translation>
+        <translation type="unfinished">Нусха солиқдан сўнг</translation>
     </message>
     <message>
         <source>Copy bytes</source>
-        <translation type="obsolete">Нусха байти</translation>
+        <translation type="unfinished">Нусха байти</translation>
     </message>
     <message>
         <source>Copy priority</source>
-        <translation type="obsolete">Нусха муҳимлиги</translation>
+        <translation type="unfinished">Нусха муҳимлиги</translation>
     </message>
     <message>
         <source>Copy dust</source>
@@ -905,11 +905,11 @@ Address: %4
     </message>
     <message>
         <source>Copy change</source>
-        <translation type="obsolete">Нусха қайтими</translation>
+        <translation type="unfinished">Нусха қайтими</translation>
     </message>
     <message>
         <source>highest</source>
-        <translation type="obsolete">энг юқори</translation>
+        <translation type="unfinished">энг юқори</translation>
     </message>
     <message>
         <source>higher</source>
@@ -917,23 +917,23 @@ Address: %4
     </message>
     <message>
         <source>high</source>
-        <translation type="obsolete">юқори</translation>
+        <translation type="unfinished">юқори</translation>
     </message>
     <message>
         <source>medium-high</source>
-        <translation type="obsolete">ўртача-юқори</translation>
+        <translation type="unfinished">ўртача-юқори</translation>
     </message>
     <message>
         <source>medium</source>
-        <translation type="obsolete">ўрта</translation>
+        <translation type="unfinished">ўрта</translation>
     </message>
     <message>
         <source>low-medium</source>
-        <translation type="obsolete">паст-юқори</translation>
+        <translation type="unfinished">паст-юқори</translation>
     </message>
     <message>
         <source>low</source>
-        <translation type="obsolete">паст</translation>
+        <translation type="unfinished">паст</translation>
     </message>
     <message>
         <source>lower</source>
@@ -941,7 +941,7 @@ Address: %4
     </message>
     <message>
         <source>lowest</source>
-        <translation type="obsolete">энг паст</translation>
+        <translation type="unfinished">энг паст</translation>
     </message>
     <message>
         <source>(%1 locked)</source>
@@ -957,11 +957,11 @@ Address: %4
     </message>
     <message>
         <source>yes</source>
-        <translation type="obsolete">ҳа</translation>
+        <translation type="unfinished">ҳа</translation>
     </message>
     <message>
         <source>no</source>
-        <translation type="obsolete">йўқ</translation>
+        <translation type="unfinished">йўқ</translation>
     </message>
     <message>
         <source>This label turns red, if the transaction size is greater than 1000 bytes.</source>
@@ -989,15 +989,77 @@ Address: %4
     </message>
     <message>
         <source>(no label)</source>
-        <translation type="obsolete">(Ёрлик мавжуд эмас)</translation>
+        <translation type="unfinished">(Ёрлик мавжуд эмас)</translation>
     </message>
     <message>
         <source>change from %1 (%2)</source>
-        <translation type="obsolete">%1 (%2)дан ўзгартириш</translation>
+        <translation type="unfinished">%1 (%2)дан ўзгартириш</translation>
     </message>
     <message>
         <source>(change)</source>
-        <translation type="obsolete">(ўзгартириш)</translation>
+        <translation type="unfinished">(ўзгартириш)</translation>
+    </message>
+    <message>
+        <source>Coin Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.00 NVC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low Output:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <translation type="unfinished">Манзил</translation>
+    </message>
+    <message>
+        <source>Copy low output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DUST</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This label turns red, if the transaction size is bigger than 10000 bytes.
+
+ This means a fee of at least %1 per kb is required.
+
+ Can vary +/- 1 Byte per input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transactions with higher priority get more likely into a block.
+
+This label turns red, if the priority is smaller than &quot;medium&quot;.
+
+ This means a fee of at least %1 per kb is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This label turns red, if any recipient receives an amount smaller than %1.
+
+ This means a fee of at least %2 is required. 
+
+ Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This label turns red, if the change is smaller than %1.
+
+ This means a fee of at least %2 is required.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1442,6 +1504,14 @@ Address: %4
     </message>
     <message>
         <source>This setting will take effect after restarting AsiaCoin.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whether to show coin control features or not.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display coin &amp;control features (experts only!)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1996,27 +2066,27 @@ Address: %4
     </message>
     <message>
         <source>Quantity:</source>
-        <translation type="obsolete">Сони:</translation>
+        <translation type="unfinished">Сони:</translation>
     </message>
     <message>
         <source>Bytes:</source>
-        <translation type="obsolete">Байт:</translation>
+        <translation type="unfinished">Байт:</translation>
     </message>
     <message>
         <source>Amount:</source>
-        <translation type="obsolete">Миқдори:</translation>
+        <translation type="unfinished">Миқдори:</translation>
     </message>
     <message>
         <source>Priority:</source>
-        <translation type="obsolete">Муҳимлиги:</translation>
+        <translation type="unfinished">Муҳимлиги:</translation>
     </message>
     <message>
         <source>Fee:</source>
-        <translation type="obsolete">Солиқ:</translation>
+        <translation type="unfinished">Солиқ:</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation type="obsolete">Солиқдан сўнг:</translation>
+        <translation type="unfinished">Солиқдан сўнг:</translation>
     </message>
     <message>
         <source>Change:</source>
@@ -2056,31 +2126,31 @@ Address: %4
     </message>
     <message>
         <source>Copy quantity</source>
-        <translation type="obsolete">Нусха сони</translation>
+        <translation type="unfinished">Нусха сони</translation>
     </message>
     <message>
         <source>Copy amount</source>
-        <translation type="obsolete">Кийматни нусхала</translation>
+        <translation type="unfinished">Кийматни нусхала</translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation type="obsolete">Нусха солиғи</translation>
+        <translation type="unfinished">Нусха солиғи</translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation type="obsolete">Нусха солиқдан сўнг</translation>
+        <translation type="unfinished">Нусха солиқдан сўнг</translation>
     </message>
     <message>
         <source>Copy bytes</source>
-        <translation type="obsolete">Нусха байти</translation>
+        <translation type="unfinished">Нусха байти</translation>
     </message>
     <message>
         <source>Copy priority</source>
-        <translation type="obsolete">Нусха муҳимлиги</translation>
+        <translation type="unfinished">Нусха муҳимлиги</translation>
     </message>
     <message>
         <source>Copy change</source>
-        <translation type="obsolete">Нусха қайтими</translation>
+        <translation type="unfinished">Нусха қайтими</translation>
     </message>
     <message>
         <source>The amount to pay must be larger than 0.</source>
@@ -2092,7 +2162,7 @@ Address: %4
     </message>
     <message>
         <source>(no label)</source>
-        <translation type="obsolete">(Ёрлик мавжуд эмас)</translation>
+        <translation type="unfinished">(Ёрлик мавжуд эмас)</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2120,10 +2190,6 @@ Address: %4
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>123.456 AC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2164,6 +2230,70 @@ Address: %4
     </message>
     <message>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Coin Control Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inputs...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>automatically selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insufficient funds!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.00 BTC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>medium</source>
+        <translation type="unfinished">ўрта</translation>
+    </message>
+    <message>
+        <source>Low Output:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no</source>
+        <translation type="unfinished">йўқ</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>custom change address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>123.456 BTC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter a valid AsiaCoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy low output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WARNING: Invalid Bitcoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WARNING: unknown change address</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -696,164 +696,270 @@ Adreso: %4
 <context>
     <name>CoinControlDialog</name>
     <message>
+        <location filename="../forms/coincontroldialog.ui" line="+14"/>
+        <source>Coin Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
         <source>Quantity:</source>
-        <translation type="obsolete">Kvanto:</translation>
+        <translation type="unfinished">Kvanto:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+32"/>
+        <source>0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">Bajtoj:</translation>
+        <translation type="unfinished">Bajtoj:</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Amount:</source>
-        <translation type="obsolete">Sumo:</translation>
+        <translation type="unfinished">Sumo:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+80"/>
+        <location line="+86"/>
+        <location line="+38"/>
+        <source>0.00 NVC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">Prioritato:</translation>
+        <translation type="unfinished">Prioritato:</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Fee:</source>
-        <translation type="obsolete">Krompago:</translation>
+        <translation type="unfinished">Krompago:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">Malalta Eligo:</translation>
+        <translation type="unfinished">Malalta Eligo:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location filename="../coincontroldialog.cpp" line="+555"/>
         <source>no</source>
-        <translation type="obsolete">ne</translation>
+        <translation type="unfinished">ne</translation>
     </message>
     <message>
+        <location line="+29"/>
         <source>After Fee:</source>
-        <translation type="obsolete">Post krompago:</translation>
+        <translation type="unfinished">Post krompago:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change:</source>
-        <translation type="obsolete">Restmono:</translation>
+        <translation type="unfinished">Restmono:</translation>
     </message>
     <message>
+        <location line="+69"/>
         <source>(un)select all</source>
-        <translation type="obsolete">(mal)elekti ĉion</translation>
+        <translation type="unfinished">(mal)elekti ĉion</translation>
     </message>
     <message>
+        <location line="+13"/>
         <source>Tree mode</source>
-        <translation type="obsolete">Arboreĝimo</translation>
+        <translation type="unfinished">Arboreĝimo</translation>
     </message>
     <message>
+        <location line="+16"/>
         <source>List mode</source>
-        <translation type="obsolete">Listreĝimo</translation>
+        <translation type="unfinished">Listreĝimo</translation>
     </message>
     <message>
+        <location line="+45"/>
         <source>Amount</source>
-        <translation type="obsolete">Sumo</translation>
+        <translation type="unfinished">Sumo</translation>
     </message>
     <message>
+        <location line="+5"/>
+        <source>Label</source>
+        <translation type="unfinished">Etikedo</translation>
+    </message>
+    <message>
+        <location line="+5"/>
         <source>Address</source>
-        <translation type="obsolete">Adreso</translation>
+        <translation type="unfinished">Adreso</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Date</source>
-        <translation type="obsolete">Dato</translation>
+        <translation type="unfinished">Dato</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Confirmations</source>
-        <translation type="obsolete">Konfirmoj</translation>
+        <translation type="unfinished">Konfirmoj</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Confirmed</source>
-        <translation type="obsolete">Konfirmita</translation>
+        <translation type="unfinished">Konfirmita</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Priority</source>
-        <translation type="obsolete">Prioritato</translation>
+        <translation type="unfinished">Prioritato</translation>
     </message>
     <message>
+        <location filename="../coincontroldialog.cpp" line="-519"/>
         <source>Copy address</source>
-        <translation type="obsolete">Kopii adreson</translation>
+        <translation type="unfinished">Kopii adreson</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy label</source>
-        <translation type="obsolete">Kopii etikedon</translation>
+        <translation type="unfinished">Kopii etikedon</translation>
     </message>
     <message>
+        <location line="+1"/>
+        <location line="+26"/>
         <source>Copy amount</source>
-        <translation type="obsolete">Kopii sumon</translation>
+        <translation type="unfinished">Kopii sumon</translation>
     </message>
     <message>
+        <location line="-25"/>
         <source>Copy transaction ID</source>
-        <translation type="obsolete">Kopii transakcian ID-on</translation>
+        <translation type="unfinished">Kopii transakcian ID-on</translation>
     </message>
     <message>
+        <location line="+24"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">Kopii kvanton</translation>
+        <translation type="unfinished">Kopii kvanton</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Copy fee</source>
-        <translation type="obsolete">Kopii krompagon</translation>
+        <translation type="unfinished">Kopii krompagon</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">Kopii post krompago</translation>
+        <translation type="unfinished">Kopii post krompago</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">Kopii bajtojn</translation>
+        <translation type="unfinished">Kopii bajtojn</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">Kopii prioritaton</translation>
+        <translation type="unfinished">Kopii prioritaton</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">Kopii malaltan eligon</translation>
+        <translation type="unfinished">Kopii malaltan eligon</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">Kopii restmonon</translation>
+        <translation type="unfinished">Kopii restmonon</translation>
     </message>
     <message>
+        <location line="+321"/>
         <source>highest</source>
-        <translation type="obsolete">plej alta</translation>
+        <translation type="unfinished">plej alta</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>high</source>
-        <translation type="obsolete">alta</translation>
+        <translation type="unfinished">alta</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium-high</source>
-        <translation type="obsolete">mezalta</translation>
+        <translation type="unfinished">mezalta</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium</source>
-        <translation type="obsolete">meza</translation>
+        <translation type="unfinished">meza</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>low-medium</source>
-        <translation type="obsolete">mezmalalta</translation>
+        <translation type="unfinished">mezmalalta</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>low</source>
-        <translation type="obsolete">malalta</translation>
+        <translation type="unfinished">malalta</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>lowest</source>
-        <translation type="obsolete">plej malalta</translation>
+        <translation type="unfinished">plej malalta</translation>
     </message>
     <message>
+        <location line="+155"/>
         <source>yes</source>
-        <translation type="obsolete">jes</translation>
+        <translation type="unfinished">jes</translation>
     </message>
     <message>
+        <location line="+0"/>
+        <source>DUST</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>This label turns red, if the transaction size is bigger than 10000 bytes.
+
+ This means a fee of at least %1 per kb is required.
+
+ Can vary +/- 1 Byte per input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Transactions with higher priority get more likely into a block.
+
+This label turns red, if the priority is smaller than &quot;medium&quot;.
+
+ This means a fee of at least %1 per kb is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This label turns red, if any recipient receives an amount smaller than %1.
+
+ This means a fee of at least %2 is required. 
+
+ Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This label turns red, if the change is smaller than %1.
+
+ This means a fee of at least %2 is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <location line="+66"/>
         <source>(no label)</source>
-        <translation type="obsolete">(neniu etikedo)</translation>
+        <translation type="unfinished">(neniu etikedo)</translation>
     </message>
     <message>
+        <location line="-9"/>
         <source>change from %1 (%2)</source>
-        <translation type="obsolete">restmono de %1 (%2)</translation>
+        <translation type="unfinished">restmono de %1 (%2)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>(change)</source>
-        <translation type="obsolete">(restmono)</translation>
+        <translation type="unfinished">(restmono)</translation>
     </message>
 </context>
 <context>
@@ -1126,11 +1232,17 @@ Adreso: %4
         <translation>Elekti la defaŭltan manieron por montri bitmonajn sumojn en la interfaco, kaj kiam vi sendos bitmonon.</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Whether to show coin control features or not.</source>
-        <translation type="obsolete">Ĉu montri detalan adres-regilon, aŭ ne.</translation>
+        <translation type="unfinished">Ĉu montri detalan adres-regilon, aŭ ne.</translation>
     </message>
     <message>
-        <location line="+83"/>
+        <location line="+3"/>
+        <source>Display coin &amp;control features (experts only!)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+71"/>
         <source>&amp;OK</source>
         <translation>&amp;Bone</translation>
     </message>
@@ -1150,7 +1262,7 @@ Adreso: %4
         <translation>defaŭlta</translation>
     </message>
     <message>
-        <location line="+147"/>
+        <location line="+148"/>
         <location line="+9"/>
         <source>Warning</source>
         <translation type="unfinished"></translation>
@@ -1468,7 +1580,7 @@ Adreso: %4
     <name>SendCoinsDialog</name>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="+14"/>
-        <location filename="../sendcoinsdialog.cpp" line="+124"/>
+        <location filename="../sendcoinsdialog.cpp" line="+179"/>
         <location line="+5"/>
         <location line="+5"/>
         <location line="+5"/>
@@ -1479,47 +1591,96 @@ Adreso: %4
         <translation>Sendi Monon</translation>
     </message>
     <message>
+        <location line="+76"/>
         <source>Coin Control Features</source>
-        <translation type="obsolete">Monregaj Opcioj</translation>
+        <translation type="unfinished">Monregaj Opcioj</translation>
     </message>
     <message>
+        <location line="+20"/>
         <source>Inputs...</source>
-        <translation type="obsolete">Enigoj...</translation>
+        <translation type="unfinished">Enigoj...</translation>
     </message>
     <message>
+        <location line="+7"/>
+        <source>automatically selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="obsolete">Nesufiĉa mono!</translation>
+        <translation type="unfinished">Nesufiĉa mono!</translation>
     </message>
     <message>
+        <location line="+77"/>
         <source>Quantity:</source>
-        <translation type="obsolete">Kvanto:</translation>
+        <translation type="unfinished">Kvanto:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+35"/>
+        <source>0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">Bajtoj:</translation>
+        <translation type="unfinished">Bajtoj:</translation>
     </message>
     <message>
+        <location line="+51"/>
         <source>Amount:</source>
-        <translation type="obsolete">Sumo:</translation>
+        <translation type="unfinished">Sumo:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+86"/>
+        <location line="+86"/>
+        <location line="+32"/>
+        <source>0.00 BTC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">Prioritato:</translation>
+        <translation type="unfinished">Prioritato:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <source>medium</source>
+        <translation type="unfinished">meza</translation>
+    </message>
+    <message>
+        <location line="+32"/>
         <source>Fee:</source>
-        <translation type="obsolete">Krompago:</translation>
+        <translation type="unfinished">Krompago:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">Malalta Eligo:</translation>
+        <translation type="unfinished">Malalta Eligo:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <source>no</source>
+        <translation type="unfinished">ne</translation>
+    </message>
+    <message>
+        <location line="+32"/>
         <source>After Fee:</source>
-        <translation type="obsolete">Post krompago:</translation>
+        <translation type="unfinished">Post krompago:</translation>
+    </message>
+    <message>
+        <location line="+35"/>
+        <source>Change</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+50"/>
+        <source>custom change address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+106"/>
         <source>Send to multiple recipients at once</source>
         <translation>Sendi samtempe al pluraj ricevantoj</translation>
     </message>
@@ -1545,7 +1706,7 @@ Adreso: %4
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 AC</source>
+        <source>123.456 BTC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1559,39 +1720,52 @@ Adreso: %4
         <translation>Ŝendi</translation>
     </message>
     <message>
+        <location filename="../sendcoinsdialog.cpp" line="-173"/>
+        <source>Enter a valid AsiaCoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">Kopii kvanton</translation>
+        <translation type="unfinished">Kopii kvanton</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="obsolete">Kopii sumon</translation>
+        <translation type="unfinished">Kopii sumon</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy fee</source>
-        <translation type="obsolete">Kopii krompagon</translation>
+        <translation type="unfinished">Kopii krompagon</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">Kopii post krompago</translation>
+        <translation type="unfinished">Kopii post krompago</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">Kopii bajtojn</translation>
+        <translation type="unfinished">Kopii bajtojn</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">Kopii prioritaton</translation>
+        <translation type="unfinished">Kopii prioritaton</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">Kopii malaltan eligon</translation>
+        <translation type="unfinished">Kopii malaltan eligon</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">Kopii restmonon</translation>
+        <translation type="unfinished">Kopii restmonon</translation>
     </message>
     <message>
-        <location filename="../sendcoinsdialog.cpp" line="-59"/>
+        <location line="+86"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1611,7 +1785,7 @@ Adreso: %4
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+29"/>
         <source>The recipient address is not valid, please recheck.</source>
         <translation>La adreso de la ricevonto ne validas. Bonvolu kontroli.</translation>
     </message>
@@ -1646,8 +1820,19 @@ Adreso: %4
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location line="+250"/>
+        <source>WARNING: Invalid Bitcoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
         <source>(no label)</source>
-        <translation type="obsolete">(neniu etikedo)</translation>
+        <translation type="unfinished">(neniu etikedo)</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>WARNING: unknown change address</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2395,7 +2580,7 @@ Adreso: %4
 <context>
     <name>WalletModel</name>
     <message>
-        <location filename="../walletmodel.cpp" line="+199"/>
+        <location filename="../walletmodel.cpp" line="+206"/>
         <source>Sending...</source>
         <translation type="unfinished"></translation>
     </message>

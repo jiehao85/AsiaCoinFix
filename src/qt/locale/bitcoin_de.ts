@@ -804,172 +804,270 @@ Adresse: %4</translation>
 <context>
     <name>CoinControlDialog</name>
     <message>
+        <location filename="../forms/coincontroldialog.ui" line="+14"/>
+        <source>Coin Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
         <source>Quantity:</source>
-        <translation type="obsolete">Anzahl:</translation>
+        <translation type="unfinished">Anzahl:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+32"/>
+        <source>0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">Byte:</translation>
+        <translation type="unfinished">Byte:</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Amount:</source>
-        <translation type="obsolete">Betrag:</translation>
+        <translation type="unfinished">Betrag:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+80"/>
+        <location line="+86"/>
+        <location line="+38"/>
+        <source>0.00 NVC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">Priorität:</translation>
+        <translation type="unfinished">Priorität:</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Fee:</source>
-        <translation type="obsolete">Gebühr:</translation>
+        <translation type="unfinished">Gebühr:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">Zu geringer Ausgabebetrag:</translation>
+        <translation type="unfinished">Zu geringer Ausgabebetrag:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location filename="../coincontroldialog.cpp" line="+555"/>
         <source>no</source>
-        <translation type="obsolete">nein</translation>
+        <translation type="unfinished">nein</translation>
     </message>
     <message>
+        <location line="+29"/>
         <source>After Fee:</source>
-        <translation type="obsolete">Abzüglich Gebühr:</translation>
+        <translation type="unfinished">Abzüglich Gebühr:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change:</source>
-        <translation type="obsolete">Wechselgeld:</translation>
+        <translation type="unfinished">Wechselgeld:</translation>
     </message>
     <message>
+        <location line="+69"/>
         <source>(un)select all</source>
-        <translation type="obsolete">Alles (de)selektieren</translation>
+        <translation type="unfinished">Alles (de)selektieren</translation>
     </message>
     <message>
+        <location line="+13"/>
         <source>Tree mode</source>
-        <translation type="obsolete">Baumansicht</translation>
+        <translation type="unfinished">Baumansicht</translation>
     </message>
     <message>
+        <location line="+16"/>
         <source>List mode</source>
-        <translation type="obsolete">Listenansicht</translation>
+        <translation type="unfinished">Listenansicht</translation>
     </message>
     <message>
+        <location line="+45"/>
         <source>Amount</source>
-        <translation type="obsolete">Betrag</translation>
+        <translation type="unfinished">Betrag</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Label</source>
-        <translation type="obsolete">Bezeichnung</translation>
+        <translation type="unfinished">Bezeichnung</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Address</source>
-        <translation type="obsolete">Adresse</translation>
+        <translation type="unfinished">Adresse</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Date</source>
-        <translation type="obsolete">Datum</translation>
+        <translation type="unfinished">Datum</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Confirmations</source>
-        <translation type="obsolete">Bestätigungen</translation>
+        <translation type="unfinished">Bestätigungen</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Confirmed</source>
-        <translation type="obsolete">Bestätigt</translation>
+        <translation type="unfinished">Bestätigt</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Priority</source>
-        <translation type="obsolete">Priorität</translation>
+        <translation type="unfinished">Priorität</translation>
     </message>
     <message>
+        <location filename="../coincontroldialog.cpp" line="-519"/>
         <source>Copy address</source>
-        <translation type="obsolete">Adresse kopieren</translation>
+        <translation type="unfinished">Adresse kopieren</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy label</source>
-        <translation type="obsolete">Bezeichnung kopieren</translation>
+        <translation type="unfinished">Bezeichnung kopieren</translation>
     </message>
     <message>
+        <location line="+1"/>
+        <location line="+26"/>
         <source>Copy amount</source>
-        <translation type="obsolete">Betrag kopieren</translation>
+        <translation type="unfinished">Betrag kopieren</translation>
     </message>
     <message>
+        <location line="-25"/>
         <source>Copy transaction ID</source>
-        <translation type="obsolete">Transaktions-ID kopieren</translation>
+        <translation type="unfinished">Transaktions-ID kopieren</translation>
     </message>
     <message>
+        <location line="+24"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">Anzahl kopieren</translation>
+        <translation type="unfinished">Anzahl kopieren</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Copy fee</source>
-        <translation type="obsolete">Gebühr kopieren</translation>
+        <translation type="unfinished">Gebühr kopieren</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">Abzüglich Gebühr kopieren</translation>
+        <translation type="unfinished">Abzüglich Gebühr kopieren</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">Byte kopieren</translation>
+        <translation type="unfinished">Byte kopieren</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">Priorität kopieren</translation>
+        <translation type="unfinished">Priorität kopieren</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">Zu geringen Ausgabebetrag kopieren</translation>
+        <translation type="unfinished">Zu geringen Ausgabebetrag kopieren</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">Wechselgeld kopieren</translation>
+        <translation type="unfinished">Wechselgeld kopieren</translation>
     </message>
     <message>
+        <location line="+321"/>
         <source>highest</source>
-        <translation type="obsolete">am höchsten</translation>
+        <translation type="unfinished">am höchsten</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>high</source>
-        <translation type="obsolete">hoch</translation>
+        <translation type="unfinished">hoch</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium-high</source>
-        <translation type="obsolete">mittel-hoch</translation>
+        <translation type="unfinished">mittel-hoch</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium</source>
-        <translation type="obsolete">mittel</translation>
+        <translation type="unfinished">mittel</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>low-medium</source>
-        <translation type="obsolete">niedrig-mittel</translation>
+        <translation type="unfinished">niedrig-mittel</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>low</source>
-        <translation type="obsolete">niedrig</translation>
+        <translation type="unfinished">niedrig</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>lowest</source>
-        <translation type="obsolete">am niedrigsten</translation>
+        <translation type="unfinished">am niedrigsten</translation>
     </message>
     <message>
+        <location line="+155"/>
         <source>DUST</source>
-        <translation type="obsolete">STAUB</translation>
+        <translation type="unfinished">STAUB</translation>
     </message>
     <message>
+        <location line="+0"/>
         <source>yes</source>
-        <translation type="obsolete">ja</translation>
+        <translation type="unfinished">ja</translation>
     </message>
     <message>
+        <location line="+10"/>
+        <source>This label turns red, if the transaction size is bigger than 10000 bytes.
+
+ This means a fee of at least %1 per kb is required.
+
+ Can vary +/- 1 Byte per input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Transactions with higher priority get more likely into a block.
+
+This label turns red, if the priority is smaller than &quot;medium&quot;.
+
+ This means a fee of at least %1 per kb is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This label turns red, if any recipient receives an amount smaller than %1.
+
+ This means a fee of at least %2 is required. 
+
+ Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This label turns red, if the change is smaller than %1.
+
+ This means a fee of at least %2 is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <location line="+66"/>
         <source>(no label)</source>
-        <translation type="obsolete">(keine Bezeichnung)</translation>
+        <translation type="unfinished">(keine Bezeichnung)</translation>
     </message>
     <message>
+        <location line="-9"/>
         <source>change from %1 (%2)</source>
-        <translation type="obsolete">Wechselgeld von %1 (%2)</translation>
+        <translation type="unfinished">Wechselgeld von %1 (%2)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>(change)</source>
-        <translation type="obsolete">(Wechselgeld)</translation>
+        <translation type="unfinished">(Wechselgeld)</translation>
     </message>
 </context>
 <context>
@@ -1270,15 +1368,17 @@ Adresse: %4</translation>
         <translation>Wählen Sie die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von Asiacoins angezeigt werden soll.</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Whether to show coin control features or not.</source>
-        <translation type="obsolete">Legt fest, ob die &quot;Coin Control&quot;-Funktionen angezeigt werden.</translation>
+        <translation type="unfinished">Legt fest, ob die &quot;Coin Control&quot;-Funktionen angezeigt werden.</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation type="obsolete">Coin &amp;control features anzeigen (nur Experten!)</translation>
+        <translation type="unfinished">Coin &amp;control features anzeigen (nur Experten!)</translation>
     </message>
     <message>
-        <location line="+83"/>
+        <location line="+71"/>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
     </message>
@@ -1298,7 +1398,7 @@ Adresse: %4</translation>
         <translation>Standard</translation>
     </message>
     <message>
-        <location line="+147"/>
+        <location line="+148"/>
         <location line="+9"/>
         <source>Warning</source>
         <translation>Warnung</translation>
@@ -1636,7 +1736,7 @@ Adresse: %4</translation>
     <name>SendCoinsDialog</name>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="+14"/>
-        <location filename="../sendcoinsdialog.cpp" line="+124"/>
+        <location filename="../sendcoinsdialog.cpp" line="+179"/>
         <location line="+5"/>
         <location line="+5"/>
         <location line="+5"/>
@@ -1647,51 +1747,96 @@ Adresse: %4</translation>
         <translation>Bitcoins überweisen</translation>
     </message>
     <message>
+        <location line="+76"/>
         <source>Coin Control Features</source>
-        <translation type="obsolete">&quot;Coin Control&quot;-Funktionen</translation>
+        <translation type="unfinished">&quot;Coin Control&quot;-Funktionen</translation>
     </message>
     <message>
+        <location line="+20"/>
         <source>Inputs...</source>
-        <translation type="obsolete">Eingaben...</translation>
+        <translation type="unfinished">Eingaben...</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>automatically selected</source>
-        <translation type="obsolete">automatisch ausgewählt</translation>
+        <translation type="unfinished">automatisch ausgewählt</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="obsolete">Unzureichender Kontostand!</translation>
+        <translation type="unfinished">Unzureichender Kontostand!</translation>
     </message>
     <message>
+        <location line="+77"/>
         <source>Quantity:</source>
-        <translation type="obsolete">Anzahl:</translation>
+        <translation type="unfinished">Anzahl:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+35"/>
+        <source>0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">Byte:</translation>
+        <translation type="unfinished">Byte:</translation>
     </message>
     <message>
+        <location line="+51"/>
         <source>Amount:</source>
-        <translation type="obsolete">Betrag:</translation>
+        <translation type="unfinished">Betrag:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+86"/>
+        <location line="+86"/>
+        <location line="+32"/>
+        <source>0.00 BTC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">Priorität:</translation>
+        <translation type="unfinished">Priorität:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <source>medium</source>
+        <translation type="unfinished">mittel</translation>
+    </message>
+    <message>
+        <location line="+32"/>
         <source>Fee:</source>
-        <translation type="obsolete">Gebühr:</translation>
+        <translation type="unfinished">Gebühr:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">Zu geringer Ausgabebetrag:</translation>
+        <translation type="unfinished">Zu geringer Ausgabebetrag:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <source>no</source>
+        <translation type="unfinished">nein</translation>
+    </message>
+    <message>
+        <location line="+32"/>
         <source>After Fee:</source>
-        <translation type="obsolete">Abzüglich Gebühr:</translation>
+        <translation type="unfinished">Abzüglich Gebühr:</translation>
+    </message>
+    <message>
+        <location line="+35"/>
+        <source>Change</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+50"/>
+        <source>custom change address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+106"/>
         <source>Send to multiple recipients at once</source>
         <translation>In einer Transaktion an mehrere Empfänger auf einmal überweisen</translation>
     </message>
@@ -1717,7 +1862,7 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 AC</source>
+        <source>123.456 BTC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1731,39 +1876,52 @@ Adresse: %4</translation>
         <translation>&amp;Überweisen</translation>
     </message>
     <message>
+        <location filename="../sendcoinsdialog.cpp" line="-173"/>
+        <source>Enter a valid AsiaCoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">Anzahl kopieren</translation>
+        <translation type="unfinished">Anzahl kopieren</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="obsolete">Betrag kopieren</translation>
+        <translation type="unfinished">Betrag kopieren</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy fee</source>
-        <translation type="obsolete">Gebühr kopieren</translation>
+        <translation type="unfinished">Gebühr kopieren</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">Abzüglich Gebühr kopieren</translation>
+        <translation type="unfinished">Abzüglich Gebühr kopieren</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">Byte kopieren</translation>
+        <translation type="unfinished">Byte kopieren</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">Priorität kopieren</translation>
+        <translation type="unfinished">Priorität kopieren</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">Zu geringen Ausgabebetrag kopieren</translation>
+        <translation type="unfinished">Zu geringen Ausgabebetrag kopieren</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">Wechselgeld kopieren</translation>
+        <translation type="unfinished">Wechselgeld kopieren</translation>
     </message>
     <message>
-        <location filename="../sendcoinsdialog.cpp" line="-59"/>
+        <location line="+86"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1783,7 +1941,7 @@ Adresse: %4</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+29"/>
         <source>The recipient address is not valid, please recheck.</source>
         <translation>Die Zahlungsadresse ist ungültig, bitte nochmals überprüfen.</translation>
     </message>
@@ -1818,16 +1976,23 @@ Adresse: %4</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location line="+250"/>
+        <source>WARNING: Invalid Bitcoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WARNING: Invalid Asiacoin address</source>
         <translation type="obsolete">Warnung: Ungültige Asiacoin Adresse</translation>
     </message>
     <message>
+        <location line="+13"/>
         <source>(no label)</source>
-        <translation type="obsolete">(keine Bezeichnung)</translation>
+        <translation type="unfinished">(keine Bezeichnung)</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation type="obsolete">Warnung: Unbekannte Wechselgeldadresse</translation>
+        <translation type="unfinished">Warnung: Unbekannte Wechselgeldadresse</translation>
     </message>
 </context>
 <context>
@@ -2605,7 +2770,7 @@ Adresse: %4</translation>
 <context>
     <name>WalletModel</name>
     <message>
-        <location filename="../walletmodel.cpp" line="+199"/>
+        <location filename="../walletmodel.cpp" line="+206"/>
         <source>Sending...</source>
         <translation>Wird gesendet...</translation>
     </message>

@@ -828,220 +828,284 @@ Address: %4
 <context>
     <name>CoinControlDialog</name>
     <message>
+        <location filename="../forms/coincontroldialog.ui" line="+14"/>
         <source>Coin Control</source>
-        <translation type="obsolete">Opcions del control de monedes</translation>
+        <translation type="unfinished">Opcions del control de monedes</translation>
     </message>
     <message>
+        <location line="+31"/>
         <source>Quantity:</source>
-        <translation type="obsolete">Quantitat:</translation>
+        <translation type="unfinished">Quantitat:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+32"/>
+        <source>0</source>
+        <translation type="unfinished">0</translation>
+    </message>
+    <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">Bytes:</translation>
+        <translation type="unfinished">Bytes:</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Amount:</source>
-        <translation type="obsolete">Quantitat:</translation>
+        <translation type="unfinished">Quantitat:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+80"/>
+        <location line="+86"/>
+        <location line="+38"/>
+        <source>0.00 NVC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">Prioritat:</translation>
+        <translation type="unfinished">Prioritat:</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Fee:</source>
-        <translation type="obsolete">Quota:</translation>
+        <translation type="unfinished">Quota:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">Sortida baixa:</translation>
+        <translation type="unfinished">Sortida baixa:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location filename="../coincontroldialog.cpp" line="+555"/>
         <source>no</source>
-        <translation type="obsolete">no</translation>
+        <translation type="unfinished">no</translation>
     </message>
     <message>
+        <location line="+29"/>
         <source>After Fee:</source>
-        <translation type="obsolete">Quota posterior:</translation>
+        <translation type="unfinished">Quota posterior:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change:</source>
-        <translation type="obsolete">Canvi:</translation>
+        <translation type="unfinished">Canvi:</translation>
     </message>
     <message>
+        <location line="+69"/>
         <source>(un)select all</source>
-        <translation type="obsolete">(de)seleccionar tot</translation>
+        <translation type="unfinished">(de)seleccionar tot</translation>
     </message>
     <message>
+        <location line="+13"/>
         <source>Tree mode</source>
-        <translation type="obsolete">Mode arbre</translation>
+        <translation type="unfinished">Mode arbre</translation>
     </message>
     <message>
+        <location line="+16"/>
         <source>List mode</source>
-        <translation type="obsolete">Mode llista</translation>
+        <translation type="unfinished">Mode llista</translation>
     </message>
     <message>
+        <location line="+45"/>
         <source>Amount</source>
-        <translation type="obsolete">Quantitat</translation>
+        <translation type="unfinished">Quantitat</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Label</source>
-        <translation type="obsolete">Etiqueta</translation>
+        <translation type="unfinished">Etiqueta</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Address</source>
-        <translation type="obsolete">Adreça</translation>
+        <translation type="unfinished">Adreça</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Date</source>
-        <translation type="obsolete">Data</translation>
+        <translation type="unfinished">Data</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Confirmations</source>
-        <translation type="obsolete">Confirmacions</translation>
+        <translation type="unfinished">Confirmacions</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Confirmed</source>
-        <translation type="obsolete">Confirmat</translation>
+        <translation type="unfinished">Confirmat</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Priority</source>
-        <translation type="obsolete">Prioritat</translation>
+        <translation type="unfinished">Prioritat</translation>
     </message>
     <message>
+        <location filename="../coincontroldialog.cpp" line="-519"/>
         <source>Copy address</source>
-        <translation type="obsolete">Copiar adreça </translation>
+        <translation type="unfinished">Copiar adreça </translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy label</source>
-        <translation type="obsolete">Copiar etiqueta</translation>
+        <translation type="unfinished">Copiar etiqueta</translation>
     </message>
     <message>
+        <location line="+1"/>
+        <location line="+26"/>
         <source>Copy amount</source>
-        <translation type="obsolete">Copiar quantitat</translation>
+        <translation type="unfinished">Copiar quantitat</translation>
     </message>
     <message>
+        <location line="-25"/>
         <source>Copy transaction ID</source>
-        <translation type="obsolete">Copiar ID de transacció</translation>
+        <translation type="unfinished">Copiar ID de transacció</translation>
     </message>
     <message>
+        <location line="+24"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">Copiar quantitat</translation>
+        <translation type="unfinished">Copiar quantitat</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Copy fee</source>
-        <translation type="obsolete">Copiar comisió</translation>
+        <translation type="unfinished">Copiar comisió</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">Copiar després de comisió</translation>
+        <translation type="unfinished">Copiar després de comisió</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">Copiar bytes</translation>
+        <translation type="unfinished">Copiar bytes</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">Copiar prioritat</translation>
+        <translation type="unfinished">Copiar prioritat</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">Copiar sortida baixa</translation>
+        <translation type="unfinished">Copiar sortida baixa</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">Copiar canvi</translation>
+        <translation type="unfinished">Copiar canvi</translation>
     </message>
     <message>
+        <location line="+321"/>
         <source>highest</source>
-        <translation type="obsolete">El més alt</translation>
+        <translation type="unfinished">El més alt</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>high</source>
-        <translation type="obsolete">Alt</translation>
+        <translation type="unfinished">Alt</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium-high</source>
-        <translation type="obsolete">mig-alt</translation>
+        <translation type="unfinished">mig-alt</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium</source>
-        <translation type="obsolete">mig</translation>
+        <translation type="unfinished">mig</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>low-medium</source>
-        <translation type="obsolete">baix-mig</translation>
+        <translation type="unfinished">baix-mig</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>low</source>
-        <translation type="obsolete">baix</translation>
+        <translation type="unfinished">baix</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>lowest</source>
-        <translation type="obsolete">el més baix</translation>
+        <translation type="unfinished">el més baix</translation>
     </message>
     <message>
+        <location line="+155"/>
         <source>DUST</source>
-        <translation type="obsolete">POLS</translation>
+        <translation type="unfinished">POLS</translation>
     </message>
     <message>
+        <location line="+0"/>
         <source>yes</source>
-        <translation type="obsolete">si</translation>
+        <translation type="unfinished">si</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>This label turns red, if the transaction size is bigger than 10000 bytes.
 
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation type="obsolete">Aquesta etiqueta es tornarà vermell, si la mida de la transacció és més gran que 10000 bytes.
+        <translation type="unfinished">Aquesta etiqueta es tornarà vermell, si la mida de la transacció és més gran que 10000 bytes.
 
 En aquest cas es requereix una comisió d&apos;almenys el 1% per kb. 
 
 Pot variar + / - 1 Byte per entrada.</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Transactions with higher priority get more likely into a block.
 
 This label turns red, if the priority is smaller than &quot;medium&quot;.
 
  This means a fee of at least %1 per kb is required.</source>
-        <translation type="obsolete">Les operacions amb més prioritat entren mes facilment a un bloc. 
+        <translation type="unfinished">Les operacions amb més prioritat entren mes facilment a un bloc. 
 
 Aquesta etiqueta es torna vermella, si la prioritat és menor que &quot;mitja&quot;.
 
 En aquest cas es requereix una comisió d&apos;almenys el 1% per kb.</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>This label turns red, if any recipient receives an amount smaller than %1.
 
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation type="obsolete">Aquesta etiqueta es torna vermella, si qualsevol beneficiari rep una quantitat inferior a 1%.
+        <translation type="unfinished">Aquesta etiqueta es torna vermella, si qualsevol beneficiari rep una quantitat inferior a 1%.
 
 En aquest cas es requereix una comisió d&apos;almenys 2%.
 
 Les quantitats inferiors a 0.546 vegades la quota mínima del relé es mostren com a POLS.</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation type="obsolete">Aquesta etiqueta es torna vermella, si el canvi és menor que 1%.
+        <translation type="unfinished">Aquesta etiqueta es torna vermella, si el canvi és menor que 1%.
 
 En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
+        <location line="+37"/>
+        <location line="+66"/>
         <source>(no label)</source>
-        <translation type="obsolete">(sense etiqueta)</translation>
+        <translation type="unfinished">(sense etiqueta)</translation>
     </message>
     <message>
+        <location line="-9"/>
         <source>change from %1 (%2)</source>
-        <translation type="obsolete">canvi desde %1 (%2)</translation>
+        <translation type="unfinished">canvi desde %1 (%2)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>(change)</source>
-        <translation type="obsolete">(canviar)</translation>
+        <translation type="unfinished">(canviar)</translation>
     </message>
 </context>
 <context>
@@ -1350,15 +1414,17 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <translation>Sel·lecciona la unitat de subdivisió per defecte per mostrar en la interficie quan s&apos;envien monedes.</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Whether to show coin control features or not.</source>
-        <translation type="obsolete">Per mostrar les característiques de control de la moneda o no.</translation>
+        <translation type="unfinished">Per mostrar les característiques de control de la moneda o no.</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation type="obsolete">Mostrar controls i característiques de la moneda (només per a experts!)</translation>
+        <translation type="unfinished">Mostrar controls i característiques de la moneda (només per a experts!)</translation>
     </message>
     <message>
-        <location line="+83"/>
+        <location line="+71"/>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
     </message>
@@ -1378,7 +1444,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <translation>Per defecte</translation>
     </message>
     <message>
-        <location line="+147"/>
+        <location line="+148"/>
         <location line="+9"/>
         <source>Warning</source>
         <translation>Avís</translation>
@@ -1728,7 +1794,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>SendCoinsDialog</name>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="+14"/>
-        <location filename="../sendcoinsdialog.cpp" line="+124"/>
+        <location filename="../sendcoinsdialog.cpp" line="+179"/>
         <location line="+5"/>
         <location line="+5"/>
         <location line="+5"/>
@@ -1739,75 +1805,100 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <translation>Enviar monedes</translation>
     </message>
     <message>
+        <location line="+76"/>
         <source>Coin Control Features</source>
-        <translation type="obsolete">(Opcions del control del Coin)</translation>
+        <translation type="unfinished">(Opcions del control del Coin)</translation>
     </message>
     <message>
+        <location line="+20"/>
         <source>Inputs...</source>
-        <translation type="obsolete">Entrades</translation>
+        <translation type="unfinished">Entrades</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>automatically selected</source>
-        <translation type="obsolete">Seleccionat automàticament</translation>
+        <translation type="unfinished">Seleccionat automàticament</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="obsolete">Fons insuficient</translation>
+        <translation type="unfinished">Fons insuficient</translation>
     </message>
     <message>
+        <location line="+77"/>
         <source>Quantity:</source>
-        <translation type="obsolete">Quantitat:</translation>
+        <translation type="unfinished">Quantitat:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+35"/>
         <source>0</source>
-        <translation type="obsolete">0</translation>
+        <translation type="unfinished">0</translation>
     </message>
     <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">Bytes:</translation>
+        <translation type="unfinished">Bytes:</translation>
     </message>
     <message>
+        <location line="+51"/>
         <source>Amount:</source>
-        <translation type="obsolete">Quantitat:</translation>
+        <translation type="unfinished">Quantitat:</translation>
     </message>
     <message>
         <source>0.00 BC</source>
         <translation type="obsolete">123.456 BC {0.00 ?}</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+86"/>
+        <location line="+86"/>
+        <location line="+32"/>
+        <source>0.00 BTC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">Prioritat:</translation>
+        <translation type="unfinished">Prioritat:</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>medium</source>
-        <translation type="obsolete">mig</translation>
+        <translation type="unfinished">mig</translation>
     </message>
     <message>
+        <location line="+32"/>
         <source>Fee:</source>
-        <translation type="obsolete">Quota:</translation>
+        <translation type="unfinished">Quota:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">Sortida baixa:</translation>
+        <translation type="unfinished">Sortida baixa:</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>no</source>
-        <translation type="obsolete">no</translation>
+        <translation type="unfinished">no</translation>
     </message>
     <message>
+        <location line="+32"/>
         <source>After Fee:</source>
-        <translation type="obsolete">Quota posterior:</translation>
+        <translation type="unfinished">Quota posterior:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change</source>
-        <translation type="obsolete">Canvi</translation>
-    </message>
-    <message>
-        <source>custom change address</source>
-        <translation type="obsolete">Adreça de canvi pròpia</translation>
+        <translation type="unfinished">Canvi</translation>
     </message>
     <message>
         <location line="+50"/>
+        <source>custom change address</source>
+        <translation type="unfinished">Adreça de canvi pròpia</translation>
+    </message>
+    <message>
+        <location line="+106"/>
         <source>Send to multiple recipients at once</source>
         <translation>Enviar a multiples destinataris al mateix temps</translation>
     </message>
@@ -1833,7 +1924,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 AC</source>
+        <source>123.456 BTC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1855,39 +1946,52 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <translation type="obsolete">Introdueix una adreça Asiacoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
+        <location filename="../sendcoinsdialog.cpp" line="-173"/>
+        <source>Enter a valid AsiaCoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">Copiar quantitat</translation>
+        <translation type="unfinished">Copiar quantitat</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="obsolete">Copiar quantitat</translation>
+        <translation type="unfinished">Copiar quantitat</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy fee</source>
-        <translation type="obsolete">Copiar comisió</translation>
+        <translation type="unfinished">Copiar comisió</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">Copiar després de comisió</translation>
+        <translation type="unfinished">Copiar després de comisió</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">Copiar bytes</translation>
+        <translation type="unfinished">Copiar bytes</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">Copiar prioritat</translation>
+        <translation type="unfinished">Copiar prioritat</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">Copiar sortida baixa</translation>
+        <translation type="unfinished">Copiar sortida baixa</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">Copiar canvi</translation>
+        <translation type="unfinished">Copiar canvi</translation>
     </message>
     <message>
-        <location filename="../sendcoinsdialog.cpp" line="-59"/>
+        <location line="+86"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
         <translation>&lt;b&gt;%1&lt;/b&gt; a %2 (%3)</translation>
     </message>
@@ -1907,7 +2011,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <translation>i</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+29"/>
         <source>The recipient address is not valid, please recheck.</source>
         <translation>L&apos;adreça remetent no és vàlida, si us plau comprovi-la.</translation>
     </message>
@@ -1942,16 +2046,23 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <translation>Error: La transacció ha sigut rebutjada. Això pot passar si algunes de les monedes al moneder ja s&apos;han gastat, per exemple, si vostè utilitza una còpia del wallet.dat i les monedes han estat gastades a la cópia pero no s&apos;han marcat com a gastades aqui.</translation>
     </message>
     <message>
+        <location line="+250"/>
+        <source>WARNING: Invalid Bitcoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WARNING: Invalid Asiacoin address</source>
         <translation type="obsolete">ADVERTÈNCIA: Direcció Asiacoin invàlida</translation>
     </message>
     <message>
+        <location line="+13"/>
         <source>(no label)</source>
-        <translation type="obsolete">(sense etiqueta)</translation>
+        <translation type="unfinished">(sense etiqueta)</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation type="obsolete">ADVERTÈNCIA: direcció de canvi desconeguda</translation>
+        <translation type="unfinished">ADVERTÈNCIA: direcció de canvi desconeguda</translation>
     </message>
 </context>
 <context>
@@ -2759,7 +2870,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
 <context>
     <name>WalletModel</name>
     <message>
-        <location filename="../walletmodel.cpp" line="+199"/>
+        <location filename="../walletmodel.cpp" line="+206"/>
         <source>Sending...</source>
         <translation>Enviant...</translation>
     </message>

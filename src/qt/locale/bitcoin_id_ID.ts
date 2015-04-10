@@ -768,152 +768,270 @@ Alamat: %4
 <context>
     <name>CoinControlDialog</name>
     <message>
+        <location filename="../forms/coincontroldialog.ui" line="+14"/>
+        <source>Coin Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+31"/>
         <source>Quantity:</source>
-        <translation type="obsolete">Jumlah:</translation>
+        <translation type="unfinished">Jumlah:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+32"/>
+        <source>0</source>
+        <translation type="unfinished">0</translation>
+    </message>
+    <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">Bytes:</translation>
+        <translation type="unfinished">Bytes:</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Amount:</source>
-        <translation type="obsolete">Jumlah:</translation>
+        <translation type="unfinished">Jumlah:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+80"/>
+        <location line="+86"/>
+        <location line="+38"/>
+        <source>0.00 NVC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">Prioritas:</translation>
+        <translation type="unfinished">Prioritas:</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Fee:</source>
-        <translation type="obsolete">Biaya:</translation>
+        <translation type="unfinished">Biaya:</translation>
     </message>
     <message>
+        <location line="+35"/>
+        <source>Low Output:</source>
+        <translation type="unfinished">Output Rendah:</translation>
+    </message>
+    <message>
+        <location line="+22"/>
+        <location filename="../coincontroldialog.cpp" line="+555"/>
         <source>no</source>
-        <translation type="obsolete">tidak</translation>
+        <translation type="unfinished">tidak</translation>
     </message>
     <message>
+        <location line="+29"/>
         <source>After Fee:</source>
-        <translation type="obsolete">Setelah biaya:</translation>
+        <translation type="unfinished">Setelah biaya:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change:</source>
-        <translation type="obsolete">Perubahan:</translation>
+        <translation type="unfinished">Perubahan:</translation>
     </message>
     <message>
+        <location line="+69"/>
+        <source>(un)select all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
+        <source>Tree mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+16"/>
         <source>List mode</source>
-        <translation type="obsolete">mode Daftar</translation>
+        <translation type="unfinished">mode Daftar</translation>
     </message>
     <message>
+        <location line="+45"/>
         <source>Amount</source>
-        <translation type="obsolete">Jumlah</translation>
+        <translation type="unfinished">Jumlah</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Label</source>
-        <translation type="obsolete">Label</translation>
+        <translation type="unfinished">Label</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Address</source>
-        <translation type="obsolete">Alamat</translation>
+        <translation type="unfinished">Alamat</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Date</source>
-        <translation type="obsolete">Tanggal</translation>
+        <translation type="unfinished">Tanggal</translation>
     </message>
     <message>
+        <location line="+5"/>
+        <source>Confirmations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <source>Confirmed</source>
-        <translation type="obsolete">Terkonfirmasi</translation>
+        <translation type="unfinished">Terkonfirmasi</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Priority</source>
-        <translation type="obsolete">Prioritas</translation>
+        <translation type="unfinished">Prioritas</translation>
     </message>
     <message>
+        <location filename="../coincontroldialog.cpp" line="-519"/>
         <source>Copy address</source>
-        <translation type="obsolete">Salin alamat</translation>
+        <translation type="unfinished">Salin alamat</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy label</source>
-        <translation type="obsolete">Salin label</translation>
+        <translation type="unfinished">Salin label</translation>
     </message>
     <message>
+        <location line="+1"/>
+        <location line="+26"/>
         <source>Copy amount</source>
-        <translation type="obsolete">Salin jumlah</translation>
+        <translation type="unfinished">Salin jumlah</translation>
     </message>
     <message>
+        <location line="-25"/>
+        <source>Copy transaction ID</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+24"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">Salikan jumlah</translation>
+        <translation type="unfinished">Salikan jumlah</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Copy fee</source>
-        <translation type="obsolete">Salinkan Biaya</translation>
+        <translation type="unfinished">Salinkan Biaya</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">Salinkan setelah biaya</translation>
+        <translation type="unfinished">Salinkan setelah biaya</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">Salinkan bytes</translation>
+        <translation type="unfinished">Salinkan bytes</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">Salinkan prioritas</translation>
+        <translation type="unfinished">Salinkan prioritas</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">Salinkan output rendah</translation>
+        <translation type="unfinished">Salinkan output rendah</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">Salinkan perubahan</translation>
+        <translation type="unfinished">Salinkan perubahan</translation>
     </message>
     <message>
+        <location line="+321"/>
         <source>highest</source>
-        <translation type="obsolete">tertinggi</translation>
+        <translation type="unfinished">tertinggi</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>high</source>
-        <translation type="obsolete">tinggi</translation>
+        <translation type="unfinished">tinggi</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium-high</source>
-        <translation type="obsolete">menengah-tinggi</translation>
+        <translation type="unfinished">menengah-tinggi</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium</source>
-        <translation type="obsolete">menengah</translation>
+        <translation type="unfinished">menengah</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>low-medium</source>
-        <translation type="obsolete">rendah-menengah</translation>
+        <translation type="unfinished">rendah-menengah</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>low</source>
-        <translation type="obsolete">rendah</translation>
+        <translation type="unfinished">rendah</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>lowest</source>
-        <translation type="obsolete">terendah</translation>
+        <translation type="unfinished">terendah</translation>
     </message>
     <message>
+        <location line="+155"/>
         <source>DUST</source>
-        <translation type="obsolete">DUST</translation>
+        <translation type="unfinished">DUST</translation>
     </message>
     <message>
+        <location line="+0"/>
         <source>yes</source>
-        <translation type="obsolete">ya</translation>
+        <translation type="unfinished">ya</translation>
     </message>
     <message>
+        <location line="+10"/>
+        <source>This label turns red, if the transaction size is bigger than 10000 bytes.
+
+ This means a fee of at least %1 per kb is required.
+
+ Can vary +/- 1 Byte per input.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Transactions with higher priority get more likely into a block.
+
+This label turns red, if the priority is smaller than &quot;medium&quot;.
+
+ This means a fee of at least %1 per kb is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This label turns red, if any recipient receives an amount smaller than %1.
+
+ This means a fee of at least %2 is required. 
+
+ Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>This label turns red, if the change is smaller than %1.
+
+ This means a fee of at least %2 is required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+37"/>
+        <location line="+66"/>
         <source>(no label)</source>
-        <translation type="obsolete">(tidak ada label)</translation>
+        <translation type="unfinished">(tidak ada label)</translation>
     </message>
     <message>
+        <location line="-9"/>
         <source>change from %1 (%2)</source>
-        <translation type="obsolete">perubahan dari %1 (%2)</translation>
+        <translation type="unfinished">perubahan dari %1 (%2)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>(change)</source>
-        <translation type="obsolete">(perubahan)</translation>
+        <translation type="unfinished">(perubahan)</translation>
     </message>
 </context>
 <context>
@@ -1190,7 +1308,17 @@ Alamat: %4
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+83"/>
+        <location line="+19"/>
+        <source>Whether to show coin control features or not.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
+        <source>Display coin &amp;control features (experts only!)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+71"/>
         <source>&amp;OK</source>
         <translation>&amp;YA</translation>
     </message>
@@ -1210,7 +1338,7 @@ Alamat: %4
         <translation>standar</translation>
     </message>
     <message>
-        <location line="+147"/>
+        <location line="+148"/>
         <location line="+9"/>
         <source>Warning</source>
         <translation>Peringatan</translation>
@@ -1528,7 +1656,7 @@ Alamat: %4
     <name>SendCoinsDialog</name>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="+14"/>
-        <location filename="../sendcoinsdialog.cpp" line="+124"/>
+        <location filename="../sendcoinsdialog.cpp" line="+179"/>
         <location line="+5"/>
         <location line="+5"/>
         <location line="+5"/>
@@ -1539,59 +1667,100 @@ Alamat: %4
         <translation>Kirim Koin</translation>
     </message>
     <message>
+        <location line="+76"/>
+        <source>Coin Control Features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+20"/>
+        <source>Inputs...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+7"/>
+        <source>automatically selected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="obsolete">Jumlah dana dibutuhkan tidak mencukupi!</translation>
+        <translation type="unfinished">Jumlah dana dibutuhkan tidak mencukupi!</translation>
     </message>
     <message>
+        <location line="+77"/>
         <source>Quantity:</source>
-        <translation type="obsolete">Jumlah:</translation>
+        <translation type="unfinished">Jumlah:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+35"/>
         <source>0</source>
-        <translation type="obsolete">0</translation>
+        <translation type="unfinished">0</translation>
     </message>
     <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">Bytes:</translation>
+        <translation type="unfinished">Bytes:</translation>
     </message>
     <message>
+        <location line="+51"/>
         <source>Amount:</source>
-        <translation type="obsolete">Jumlah:</translation>
+        <translation type="unfinished">Jumlah:</translation>
     </message>
     <message>
         <source>0.00 BC</source>
         <translation type="obsolete">123.456 BC {0.00 ?}</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+86"/>
+        <location line="+86"/>
+        <location line="+32"/>
+        <source>0.00 BTC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">Prioritas:</translation>
+        <translation type="unfinished">Prioritas:</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>medium</source>
-        <translation type="obsolete">menengah</translation>
+        <translation type="unfinished">menengah</translation>
     </message>
     <message>
+        <location line="+32"/>
         <source>Fee:</source>
-        <translation type="obsolete">Biaya:</translation>
+        <translation type="unfinished">Biaya:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">Output Rendah:</translation>
+        <translation type="unfinished">Output Rendah:</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>no</source>
-        <translation type="obsolete">tidak</translation>
+        <translation type="unfinished">tidak</translation>
     </message>
     <message>
+        <location line="+32"/>
         <source>After Fee:</source>
-        <translation type="obsolete">Setelah Biaya:</translation>
+        <translation type="unfinished">Setelah Biaya:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change</source>
-        <translation type="obsolete">Perubahan</translation>
+        <translation type="unfinished">Perubahan</translation>
     </message>
     <message>
         <location line="+50"/>
+        <source>custom change address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+106"/>
         <source>Send to multiple recipients at once</source>
         <translation>Kirim ke beberapa penerima sekaligus</translation>
     </message>
@@ -1617,7 +1786,7 @@ Alamat: %4
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 AC</source>
+        <source>123.456 BTC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1631,11 +1800,52 @@ Alamat: %4
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Copy amount</source>
-        <translation type="obsolete">Salin jumlah</translation>
+        <location filename="../sendcoinsdialog.cpp" line="-173"/>
+        <source>Enter a valid AsiaCoin address</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sendcoinsdialog.cpp" line="-59"/>
+        <location line="+15"/>
+        <source>Copy quantity</source>
+        <translation type="unfinished">Salikan jumlah</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Copy amount</source>
+        <translation type="unfinished">Salin jumlah</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Copy fee</source>
+        <translation type="unfinished">Salinkan Biaya</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Copy after fee</source>
+        <translation type="unfinished">Salinkan setelah biaya</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Copy bytes</source>
+        <translation type="unfinished">Salinkan bytes</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Copy priority</source>
+        <translation type="unfinished">Salinkan prioritas</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Copy low output</source>
+        <translation type="unfinished">Salinkan output rendah</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Copy change</source>
+        <translation type="unfinished">Salinkan perubahan</translation>
+    </message>
+    <message>
+        <location line="+86"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1655,7 +1865,7 @@ Alamat: %4
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+29"/>
         <source>The recipient address is not valid, please recheck.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1690,8 +1900,19 @@ Alamat: %4
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location line="+250"/>
+        <source>WARNING: Invalid Bitcoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+13"/>
         <source>(no label)</source>
-        <translation type="obsolete">(tidak ada label)</translation>
+        <translation type="unfinished">(tidak ada label)</translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>WARNING: unknown change address</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2421,7 +2642,7 @@ Alamat: %4
 <context>
     <name>WalletModel</name>
     <message>
-        <location filename="../walletmodel.cpp" line="+199"/>
+        <location filename="../walletmodel.cpp" line="+206"/>
         <source>Sending...</source>
         <translation type="unfinished">Mengirim...</translation>
     </message>

@@ -821,220 +821,284 @@ Adresse: %4
 <context>
     <name>CoinControlDialog</name>
     <message>
+        <location filename="../forms/coincontroldialog.ui" line="+14"/>
         <source>Coin Control</source>
-        <translation type="obsolete">Mønt Kontrol</translation>
+        <translation type="unfinished">Mønt Kontrol</translation>
     </message>
     <message>
+        <location line="+31"/>
         <source>Quantity:</source>
-        <translation type="obsolete">Antal:</translation>
+        <translation type="unfinished">Antal:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+32"/>
+        <source>0</source>
+        <translation type="unfinished">0</translation>
+    </message>
+    <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">Bytes:</translation>
+        <translation type="unfinished">Bytes:</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Amount:</source>
-        <translation type="obsolete">Beløb:</translation>
+        <translation type="unfinished">Beløb:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+80"/>
+        <location line="+86"/>
+        <location line="+38"/>
+        <source>0.00 NVC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">Prioritet:</translation>
+        <translation type="unfinished">Prioritet:</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Fee:</source>
-        <translation type="obsolete">Gebyr:</translation>
+        <translation type="unfinished">Gebyr:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">Lav Udgangseffekt:</translation>
+        <translation type="unfinished">Lav Udgangseffekt:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location filename="../coincontroldialog.cpp" line="+555"/>
         <source>no</source>
-        <translation type="obsolete">nej</translation>
+        <translation type="unfinished">nej</translation>
     </message>
     <message>
+        <location line="+29"/>
         <source>After Fee:</source>
-        <translation type="obsolete">Efter Gebyr:</translation>
+        <translation type="unfinished">Efter Gebyr:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change:</source>
-        <translation type="obsolete">Ændre:</translation>
+        <translation type="unfinished">Ændre:</translation>
     </message>
     <message>
+        <location line="+69"/>
         <source>(un)select all</source>
-        <translation type="obsolete">(fra)vælg alle</translation>
+        <translation type="unfinished">(fra)vælg alle</translation>
     </message>
     <message>
+        <location line="+13"/>
         <source>Tree mode</source>
-        <translation type="obsolete">Træ tilstand</translation>
+        <translation type="unfinished">Træ tilstand</translation>
     </message>
     <message>
+        <location line="+16"/>
         <source>List mode</source>
-        <translation type="obsolete">Liste tilstand</translation>
+        <translation type="unfinished">Liste tilstand</translation>
     </message>
     <message>
+        <location line="+45"/>
         <source>Amount</source>
-        <translation type="obsolete">Beløb</translation>
+        <translation type="unfinished">Beløb</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Label</source>
-        <translation type="obsolete">Mærkat</translation>
+        <translation type="unfinished">Mærkat</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Address</source>
-        <translation type="obsolete">Adresse</translation>
+        <translation type="unfinished">Adresse</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Date</source>
-        <translation type="obsolete">Dato</translation>
+        <translation type="unfinished">Dato</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Confirmations</source>
-        <translation type="obsolete">Bekræftelser</translation>
+        <translation type="unfinished">Bekræftelser</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Confirmed</source>
-        <translation type="obsolete">Bekræftet</translation>
+        <translation type="unfinished">Bekræftet</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Priority</source>
-        <translation type="obsolete">Prioritet</translation>
+        <translation type="unfinished">Prioritet</translation>
     </message>
     <message>
+        <location filename="../coincontroldialog.cpp" line="-519"/>
         <source>Copy address</source>
-        <translation type="obsolete">Kopier adresse</translation>
+        <translation type="unfinished">Kopier adresse</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy label</source>
-        <translation type="obsolete">Kopier mærkat</translation>
+        <translation type="unfinished">Kopier mærkat</translation>
     </message>
     <message>
+        <location line="+1"/>
+        <location line="+26"/>
         <source>Copy amount</source>
-        <translation type="obsolete">Kopier beløb</translation>
+        <translation type="unfinished">Kopier beløb</translation>
     </message>
     <message>
+        <location line="-25"/>
         <source>Copy transaction ID</source>
-        <translation type="obsolete">Kopier transaktionens ID</translation>
+        <translation type="unfinished">Kopier transaktionens ID</translation>
     </message>
     <message>
+        <location line="+24"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">Kopier antal</translation>
+        <translation type="unfinished">Kopier antal</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Copy fee</source>
-        <translation type="obsolete">Kopier transkationsgebyr</translation>
+        <translation type="unfinished">Kopier transkationsgebyr</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">Kopier efter transkationsgebyr</translation>
+        <translation type="unfinished">Kopier efter transkationsgebyr</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">Kopier bytes</translation>
+        <translation type="unfinished">Kopier bytes</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">Kopier prioritet</translation>
+        <translation type="unfinished">Kopier prioritet</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">Lav udgangseffekt</translation>
+        <translation type="unfinished">Lav udgangseffekt</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">Kopier ændring</translation>
+        <translation type="unfinished">Kopier ændring</translation>
     </message>
     <message>
+        <location line="+321"/>
         <source>highest</source>
-        <translation type="obsolete">højeste</translation>
+        <translation type="unfinished">højeste</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>high</source>
-        <translation type="obsolete">høj</translation>
+        <translation type="unfinished">høj</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium-high</source>
-        <translation type="obsolete">medium-høj</translation>
+        <translation type="unfinished">medium-høj</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium</source>
-        <translation type="obsolete">medium</translation>
+        <translation type="unfinished">medium</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>low-medium</source>
-        <translation type="obsolete">lav-medium</translation>
+        <translation type="unfinished">lav-medium</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>low</source>
-        <translation type="obsolete">lav</translation>
+        <translation type="unfinished">lav</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>lowest</source>
-        <translation type="obsolete">lavest</translation>
+        <translation type="unfinished">lavest</translation>
     </message>
     <message>
+        <location line="+155"/>
         <source>DUST</source>
-        <translation type="obsolete">DUST</translation>
+        <translation type="unfinished">DUST</translation>
     </message>
     <message>
+        <location line="+0"/>
         <source>yes</source>
-        <translation type="obsolete">ja</translation>
+        <translation type="unfinished">ja</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>This label turns red, if the transaction size is bigger than 10000 bytes.
 
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation type="obsolete">Denne etiket bliver rød, hvis transaktionen størrelse er større end 10000 byte.
+        <translation type="unfinished">Denne etiket bliver rød, hvis transaktionen størrelse er større end 10000 byte.
  
 Det betyder, at et gebyr på mindst %1 per kb er påkrævet.
 
 Kan variere + / - 1 byte per indgang.</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Transactions with higher priority get more likely into a block.
 
 This label turns red, if the priority is smaller than &quot;medium&quot;.
 
  This means a fee of at least %1 per kb is required.</source>
-        <translation type="obsolete">Transaktioner med højere prioritet får mere sandsynligt en blok.
+        <translation type="unfinished">Transaktioner med højere prioritet får mere sandsynligt en blok.
  
 Denne etiket bliver rød, hvis prioritet er mindre end &quot;medium&quot;.
  
 Det betyder, at et gebyr på mindst %1 per kb er påkrævet.</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>This label turns red, if any recipient receives an amount smaller than %1.
 
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation type="obsolete">Denne etiket bliver rød, hvis nogen modtager et beløb, der er mindre end %1.
+        <translation type="unfinished">Denne etiket bliver rød, hvis nogen modtager et beløb, der er mindre end %1.
  
 Det betyder, at et gebyr på mindst %2 er påkrævet. 
  
 Beløb under 0,546 gange det minimale gebyr er vist som DUST.</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation type="obsolete">Denne etiket bliver rød, hvis ændringen er mindre end %1. 
+        <translation type="unfinished">Denne etiket bliver rød, hvis ændringen er mindre end %1. 
  
 Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
+        <location line="+37"/>
+        <location line="+66"/>
         <source>(no label)</source>
-        <translation type="obsolete">(ingen mærkat)</translation>
+        <translation type="unfinished">(ingen mærkat)</translation>
     </message>
     <message>
+        <location line="-9"/>
         <source>change from %1 (%2)</source>
-        <translation type="obsolete">skift fra %1 (%2)</translation>
+        <translation type="unfinished">skift fra %1 (%2)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>(change)</source>
-        <translation type="obsolete">(skift)</translation>
+        <translation type="unfinished">(skift)</translation>
     </message>
 </context>
 <context>
@@ -1343,15 +1407,17 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <translation>Vælg den standard underopdelingsenhed, som skal vises i brugergrænsefladen og ved afsendelse af bitcoins.</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Whether to show coin control features or not.</source>
-        <translation type="obsolete"> Vis mønt kontrol funktioner eller ej.</translation>
+        <translation type="unfinished"> Vis mønt kontrol funktioner eller ej.</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation type="obsolete">Vis mønt &amp; kontrol funktioner (kun for eksperter!)</translation>
+        <translation type="unfinished">Vis mønt &amp; kontrol funktioner (kun for eksperter!)</translation>
     </message>
     <message>
-        <location line="+83"/>
+        <location line="+71"/>
         <source>&amp;OK</source>
         <translation>OK</translation>
     </message>
@@ -1371,7 +1437,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <translation>standard</translation>
     </message>
     <message>
-        <location line="+147"/>
+        <location line="+148"/>
         <location line="+9"/>
         <source>Warning</source>
         <translation>Advarsel</translation>
@@ -1721,7 +1787,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>SendCoinsDialog</name>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="+14"/>
-        <location filename="../sendcoinsdialog.cpp" line="+124"/>
+        <location filename="../sendcoinsdialog.cpp" line="+179"/>
         <location line="+5"/>
         <location line="+5"/>
         <location line="+5"/>
@@ -1732,75 +1798,100 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <translation>Send bitcoins</translation>
     </message>
     <message>
+        <location line="+76"/>
         <source>Coin Control Features</source>
-        <translation type="obsolete">Mønt Kontrol Egenskaber</translation>
+        <translation type="unfinished">Mønt Kontrol Egenskaber</translation>
     </message>
     <message>
+        <location line="+20"/>
         <source>Inputs...</source>
-        <translation type="obsolete">Input ...</translation>
+        <translation type="unfinished">Input ...</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>automatically selected</source>
-        <translation type="obsolete">Automatisk valgt</translation>
+        <translation type="unfinished">Automatisk valgt</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="obsolete">Utilstrækkelig midler!</translation>
+        <translation type="unfinished">Utilstrækkelig midler!</translation>
     </message>
     <message>
+        <location line="+77"/>
         <source>Quantity:</source>
-        <translation type="obsolete">Antal:</translation>
+        <translation type="unfinished">Antal:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+35"/>
         <source>0</source>
-        <translation type="obsolete">0</translation>
+        <translation type="unfinished">0</translation>
     </message>
     <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">Bytes:</translation>
+        <translation type="unfinished">Bytes:</translation>
     </message>
     <message>
+        <location line="+51"/>
         <source>Amount:</source>
-        <translation type="obsolete">Beløb:</translation>
+        <translation type="unfinished">Beløb:</translation>
     </message>
     <message>
         <source>0.00 BC</source>
         <translation type="obsolete">123.456 BC {0.00 ?}</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+86"/>
+        <location line="+86"/>
+        <location line="+32"/>
+        <source>0.00 BTC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">Prioritet:</translation>
+        <translation type="unfinished">Prioritet:</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>medium</source>
-        <translation type="obsolete">medium</translation>
+        <translation type="unfinished">medium</translation>
     </message>
     <message>
+        <location line="+32"/>
         <source>Fee:</source>
-        <translation type="obsolete">Gebyr</translation>
+        <translation type="unfinished">Gebyr</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">Lav udgangseffekt</translation>
+        <translation type="unfinished">Lav udgangseffekt</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>no</source>
-        <translation type="obsolete">nej</translation>
+        <translation type="unfinished">nej</translation>
     </message>
     <message>
+        <location line="+32"/>
         <source>After Fee:</source>
-        <translation type="obsolete">Efter gebyr</translation>
+        <translation type="unfinished">Efter gebyr</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change</source>
-        <translation type="obsolete">Skift</translation>
-    </message>
-    <message>
-        <source>custom change address</source>
-        <translation type="obsolete">Ændre adresse</translation>
+        <translation type="unfinished">Skift</translation>
     </message>
     <message>
         <location line="+50"/>
+        <source>custom change address</source>
+        <translation type="unfinished">Ændre adresse</translation>
+    </message>
+    <message>
+        <location line="+106"/>
         <source>Send to multiple recipients at once</source>
         <translation>Send til flere modtagere på en gang</translation>
     </message>
@@ -1826,7 +1917,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 AC</source>
+        <source>123.456 BTC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1848,39 +1939,52 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <translation type="obsolete">Indtast en Asiacoin-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
+        <location filename="../sendcoinsdialog.cpp" line="-173"/>
+        <source>Enter a valid AsiaCoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">Kopier antal</translation>
+        <translation type="unfinished">Kopier antal</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="obsolete">Kopier beløb</translation>
+        <translation type="unfinished">Kopier beløb</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy fee</source>
-        <translation type="obsolete">Kopier transkationsgebyr</translation>
+        <translation type="unfinished">Kopier transkationsgebyr</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">Kopier efter transkationsgebyr</translation>
+        <translation type="unfinished">Kopier efter transkationsgebyr</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">Kopier bytes</translation>
+        <translation type="unfinished">Kopier bytes</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">Kopier prioritet</translation>
+        <translation type="unfinished">Kopier prioritet</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">Kopier lav produktion</translation>
+        <translation type="unfinished">Kopier lav produktion</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">Kopier forandring</translation>
+        <translation type="unfinished">Kopier forandring</translation>
     </message>
     <message>
-        <location filename="../sendcoinsdialog.cpp" line="-59"/>
+        <location line="+86"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
         <translation>&lt;b&gt;%1&lt;/b&gt; til %2 (%3)</translation>
     </message>
@@ -1900,7 +2004,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <translation>og</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+29"/>
         <source>The recipient address is not valid, please recheck.</source>
         <translation>Modtagerens adresse er ikke gyldig. Tjek venligst adressen igen.</translation>
     </message>
@@ -1935,16 +2039,23 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <translation>Fejl: Transaktionen blev afvist. Dette kan ske, hvis nogle af mønterne i din tegnebog allerede er blevet brugt, som hvis du brugte en kopi af wallet.dat og mønterne blev brugt i kopien, men ikke markeret som brugt her.</translation>
     </message>
     <message>
+        <location line="+250"/>
+        <source>WARNING: Invalid Bitcoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WARNING: Invalid Asiacoin address</source>
         <translation type="obsolete">ADVARSEL: Ugyldig Asiacoin adresse</translation>
     </message>
     <message>
+        <location line="+13"/>
         <source>(no label)</source>
-        <translation type="obsolete">(ingen mærkat)</translation>
+        <translation type="unfinished">(ingen mærkat)</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation type="obsolete">ADVARSEL: ukendt adresse forandring</translation>
+        <translation type="unfinished">ADVARSEL: ukendt adresse forandring</translation>
     </message>
 </context>
 <context>
@@ -2746,7 +2857,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
 <context>
     <name>WalletModel</name>
     <message>
-        <location filename="../walletmodel.cpp" line="+199"/>
+        <location filename="../walletmodel.cpp" line="+206"/>
         <source>Sending...</source>
         <translation>Sender...</translation>
     </message>

@@ -917,220 +917,284 @@ Adresa: %4</translation>
 <context>
     <name>CoinControlDialog</name>
     <message>
+        <location filename="../forms/coincontroldialog.ui" line="+14"/>
         <source>Coin Control</source>
-        <translation type="obsolete">Kontrola mincí</translation>
+        <translation type="unfinished">Kontrola mincí</translation>
     </message>
     <message>
+        <location line="+31"/>
         <source>Quantity:</source>
-        <translation type="obsolete">Množstvo:</translation>
+        <translation type="unfinished">Množstvo:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+32"/>
+        <source>0</source>
+        <translation type="unfinished">0</translation>
+    </message>
+    <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">Bajty:</translation>
+        <translation type="unfinished">Bajty:</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Amount:</source>
-        <translation type="obsolete">Suma:</translation>
+        <translation type="unfinished">Suma:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+80"/>
+        <location line="+86"/>
+        <location line="+38"/>
+        <source>0.00 NVC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">Priorita:</translation>
+        <translation type="unfinished">Priorita:</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Fee:</source>
-        <translation type="obsolete">Poplatok:</translation>
+        <translation type="unfinished">Poplatok:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">Nízky výstup:</translation>
+        <translation type="unfinished">Nízky výstup:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location filename="../coincontroldialog.cpp" line="+555"/>
         <source>no</source>
-        <translation type="obsolete">nie</translation>
+        <translation type="unfinished">nie</translation>
     </message>
     <message>
+        <location line="+29"/>
         <source>After Fee:</source>
-        <translation type="obsolete">Po poplatku:</translation>
+        <translation type="unfinished">Po poplatku:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change:</source>
-        <translation type="obsolete">Zmena:</translation>
+        <translation type="unfinished">Zmena:</translation>
     </message>
     <message>
+        <location line="+69"/>
         <source>(un)select all</source>
-        <translation type="obsolete">(Ne)označiť všetko</translation>
+        <translation type="unfinished">(Ne)označiť všetko</translation>
     </message>
     <message>
+        <location line="+13"/>
         <source>Tree mode</source>
-        <translation type="obsolete">Stromový režim</translation>
+        <translation type="unfinished">Stromový režim</translation>
     </message>
     <message>
+        <location line="+16"/>
         <source>List mode</source>
-        <translation type="obsolete">Zoznamový režim</translation>
+        <translation type="unfinished">Zoznamový režim</translation>
     </message>
     <message>
+        <location line="+45"/>
         <source>Amount</source>
-        <translation type="obsolete">Suma</translation>
+        <translation type="unfinished">Suma</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Label</source>
-        <translation type="obsolete">Menovka</translation>
+        <translation type="unfinished">Menovka</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Address</source>
-        <translation type="obsolete">Adresa</translation>
+        <translation type="unfinished">Adresa</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Date</source>
-        <translation type="obsolete">Dátum</translation>
+        <translation type="unfinished">Dátum</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Confirmations</source>
-        <translation type="obsolete">Potvrdenia</translation>
+        <translation type="unfinished">Potvrdenia</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Confirmed</source>
-        <translation type="obsolete">Potvrdené</translation>
+        <translation type="unfinished">Potvrdené</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Priority</source>
-        <translation type="obsolete">Priorita</translation>
+        <translation type="unfinished">Priorita</translation>
     </message>
     <message>
+        <location filename="../coincontroldialog.cpp" line="-519"/>
         <source>Copy address</source>
-        <translation type="obsolete">Kopírovať adresu</translation>
+        <translation type="unfinished">Kopírovať adresu</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy label</source>
-        <translation type="obsolete">Kopírovať popis</translation>
+        <translation type="unfinished">Kopírovať popis</translation>
     </message>
     <message>
+        <location line="+1"/>
+        <location line="+26"/>
         <source>Copy amount</source>
-        <translation type="obsolete">Kopírovať sumu</translation>
+        <translation type="unfinished">Kopírovať sumu</translation>
     </message>
     <message>
+        <location line="-25"/>
         <source>Copy transaction ID</source>
-        <translation type="obsolete">Kopírovať ID transakcie</translation>
+        <translation type="unfinished">Kopírovať ID transakcie</translation>
     </message>
     <message>
+        <location line="+24"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">Kopírovať množstvo</translation>
+        <translation type="unfinished">Kopírovať množstvo</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Copy fee</source>
-        <translation type="obsolete">Kopírovať poplatok</translation>
+        <translation type="unfinished">Kopírovať poplatok</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">Kopírovať po poplatku</translation>
+        <translation type="unfinished">Kopírovať po poplatku</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">Kopírovať bajty</translation>
+        <translation type="unfinished">Kopírovať bajty</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">Kopírovať prioritu</translation>
+        <translation type="unfinished">Kopírovať prioritu</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">Kopírovať nízky výstup</translation>
+        <translation type="unfinished">Kopírovať nízky výstup</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">Kopírovať zmenu</translation>
+        <translation type="unfinished">Kopírovať zmenu</translation>
     </message>
     <message>
+        <location line="+321"/>
         <source>highest</source>
-        <translation type="obsolete">najvyššia</translation>
+        <translation type="unfinished">najvyššia</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>high</source>
-        <translation type="obsolete">vysoká</translation>
+        <translation type="unfinished">vysoká</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium-high</source>
-        <translation type="obsolete">stredne vysoká</translation>
+        <translation type="unfinished">stredne vysoká</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium</source>
-        <translation type="obsolete">stredná</translation>
+        <translation type="unfinished">stredná</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>low-medium</source>
-        <translation type="obsolete">stredne nízka</translation>
+        <translation type="unfinished">stredne nízka</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>low</source>
-        <translation type="obsolete">nízka</translation>
+        <translation type="unfinished">nízka</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>lowest</source>
-        <translation type="obsolete">najnižšia</translation>
+        <translation type="unfinished">najnižšia</translation>
     </message>
     <message>
+        <location line="+155"/>
         <source>DUST</source>
-        <translation type="obsolete">PRACH</translation>
+        <translation type="unfinished">PRACH</translation>
     </message>
     <message>
+        <location line="+0"/>
         <source>yes</source>
-        <translation type="obsolete">áno</translation>
+        <translation type="unfinished">áno</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>This label turns red, if the transaction size is bigger than 10000 bytes.
 
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation type="obsolete">Tento popis sčervená, v prípade, že veľkosť transakcie je väčšia ako 10000 bajtov.
+        <translation type="unfinished">Tento popis sčervená, v prípade, že veľkosť transakcie je väčšia ako 10000 bajtov.
 
  To znamená, že je potrebný poplatok vo výške najmenej %1 za kb.
 
 Môže sa líšiť +/- 1 bajt za vstup.</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Transactions with higher priority get more likely into a block.
 
 This label turns red, if the priority is smaller than &quot;medium&quot;.
 
  This means a fee of at least %1 per kb is required.</source>
-        <translation type="obsolete">Transakcie s vyššou prioritou sa dostanú s väčšou pravdepodobnosťou do bloku.
+        <translation type="unfinished">Transakcie s vyššou prioritou sa dostanú s väčšou pravdepodobnosťou do bloku.
 
 Tento popis sčervenie, ak je priorita menšia ako &quot;stredná&quot;.
 
 To znamená, že je nutný poplatok vo výške aspoň %1 za kb.</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>This label turns red, if any recipient receives an amount smaller than %1.
 
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation type="obsolete">Tento popis sčervenie, ak príjemca dostane sumu menšiu ako %1.
+        <translation type="unfinished">Tento popis sčervenie, ak príjemca dostane sumu menšiu ako %1.
 
 To znamená, že je potrebný poplatok aspoň %2.
 
 Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako PRACH.</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation type="obsolete">Tento popis sčervenie, ak je zmena menšia než %1.
+        <translation type="unfinished">Tento popis sčervenie, ak je zmena menšia než %1.
 
 To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
+        <location line="+37"/>
+        <location line="+66"/>
         <source>(no label)</source>
-        <translation type="obsolete">(bez popisu)</translation>
+        <translation type="unfinished">(bez popisu)</translation>
     </message>
     <message>
+        <location line="-9"/>
         <source>change from %1 (%2)</source>
-        <translation type="obsolete">zmena od %1 (%2)</translation>
+        <translation type="unfinished">zmena od %1 (%2)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>(change)</source>
-        <translation type="obsolete">(zmena)</translation>
+        <translation type="unfinished">(zmena)</translation>
     </message>
 </context>
 <context>
@@ -1439,12 +1503,14 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <translation>Vyberte si predvolené delenie jednotiek zobrazované v rozhraní a pri odosielaní mincí.</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Whether to show coin control features or not.</source>
-        <translation type="obsolete">Či sa majú zobraziť funkcie kontroly mincí alebo nie.</translation>
+        <translation type="unfinished">Či sa majú zobraziť funkcie kontroly mincí alebo nie.</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation type="obsolete">Zobraziť funkcie &amp;kontroly mincí (len pre odborníkov!)</translation>
+        <translation type="unfinished">Zobraziť funkcie &amp;kontroly mincí (len pre odborníkov!)</translation>
     </message>
     <message>
         <source>Whether to select the coin outputs randomly or with minimal coin age.</source>
@@ -1459,7 +1525,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <translation type="obsolete">Použiť čiernu vizuálnu tému (vyžaduje reštart)</translation>
     </message>
     <message>
-        <location line="+83"/>
+        <location line="+71"/>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
     </message>
@@ -1479,7 +1545,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <translation>predvolené</translation>
     </message>
     <message>
-        <location line="+147"/>
+        <location line="+148"/>
         <location line="+9"/>
         <source>Warning</source>
         <translation>Upozornenie</translation>
@@ -1884,7 +1950,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>SendCoinsDialog</name>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="+14"/>
-        <location filename="../sendcoinsdialog.cpp" line="+124"/>
+        <location filename="../sendcoinsdialog.cpp" line="+179"/>
         <location line="+5"/>
         <location line="+5"/>
         <location line="+5"/>
@@ -1895,75 +1961,100 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <translation>Poslať mince</translation>
     </message>
     <message>
+        <location line="+76"/>
         <source>Coin Control Features</source>
-        <translation type="obsolete">Funkcie kontroly mincí</translation>
+        <translation type="unfinished">Funkcie kontroly mincí</translation>
     </message>
     <message>
+        <location line="+20"/>
         <source>Inputs...</source>
-        <translation type="obsolete">Vstupy...</translation>
+        <translation type="unfinished">Vstupy...</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>automatically selected</source>
-        <translation type="obsolete">automaticky vybrané</translation>
+        <translation type="unfinished">automaticky vybrané</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="obsolete">Nedostatok prostriedkov!</translation>
+        <translation type="unfinished">Nedostatok prostriedkov!</translation>
     </message>
     <message>
+        <location line="+77"/>
         <source>Quantity:</source>
-        <translation type="obsolete">Množstvo:</translation>
+        <translation type="unfinished">Množstvo:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+35"/>
         <source>0</source>
-        <translation type="obsolete">0</translation>
+        <translation type="unfinished">0</translation>
     </message>
     <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">Bajtov:</translation>
+        <translation type="unfinished">Bajtov:</translation>
     </message>
     <message>
+        <location line="+51"/>
         <source>Amount:</source>
-        <translation type="obsolete">Suma:</translation>
+        <translation type="unfinished">Suma:</translation>
     </message>
     <message>
         <source>0.00 BC</source>
         <translation type="obsolete">123.456 BC {0.00 ?}</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+86"/>
+        <location line="+86"/>
+        <location line="+32"/>
+        <source>0.00 BTC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">Priorita:</translation>
+        <translation type="unfinished">Priorita:</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>medium</source>
-        <translation type="obsolete">stredne</translation>
+        <translation type="unfinished">stredne</translation>
     </message>
     <message>
+        <location line="+32"/>
         <source>Fee:</source>
-        <translation type="obsolete">Poplatok:</translation>
+        <translation type="unfinished">Poplatok:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">Nízky výstup:</translation>
+        <translation type="unfinished">Nízky výstup:</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>no</source>
-        <translation type="obsolete">nie</translation>
+        <translation type="unfinished">nie</translation>
     </message>
     <message>
+        <location line="+32"/>
         <source>After Fee:</source>
-        <translation type="obsolete">Po poplatkoch:</translation>
+        <translation type="unfinished">Po poplatkoch:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change</source>
-        <translation type="obsolete">Zmeniť</translation>
-    </message>
-    <message>
-        <source>custom change address</source>
-        <translation type="obsolete">vlastná zmena adresy</translation>
+        <translation type="unfinished">Zmeniť</translation>
     </message>
     <message>
         <location line="+50"/>
+        <source>custom change address</source>
+        <translation type="unfinished">vlastná zmena adresy</translation>
+    </message>
+    <message>
+        <location line="+106"/>
         <source>Send to multiple recipients at once</source>
         <translation>Poslať viacerým príjemcom naraz</translation>
     </message>
@@ -1989,7 +2080,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 AC</source>
+        <source>123.456 BTC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2011,39 +2102,52 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <translation type="obsolete">Zadajte Asiacoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
+        <location filename="../sendcoinsdialog.cpp" line="-173"/>
+        <source>Enter a valid AsiaCoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">Kopírovať množstvo</translation>
+        <translation type="unfinished">Kopírovať množstvo</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="obsolete">Kopírovať sumu</translation>
+        <translation type="unfinished">Kopírovať sumu</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy fee</source>
-        <translation type="obsolete">Kopírovať poplatok</translation>
+        <translation type="unfinished">Kopírovať poplatok</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">Kopírovať po poplatkoch</translation>
+        <translation type="unfinished">Kopírovať po poplatkoch</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">Kopírovať bajty</translation>
+        <translation type="unfinished">Kopírovať bajty</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">Kopírovať prioritu</translation>
+        <translation type="unfinished">Kopírovať prioritu</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">Kopírovať nízky výstup</translation>
+        <translation type="unfinished">Kopírovať nízky výstup</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">Kopírovať zmenu</translation>
+        <translation type="unfinished">Kopírovať zmenu</translation>
     </message>
     <message>
-        <location filename="../sendcoinsdialog.cpp" line="-59"/>
+        <location line="+86"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
         <translation>&lt;b&gt;%1&lt;/b&gt; do %2 (%3)</translation>
     </message>
@@ -2063,7 +2167,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <translation>a</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+29"/>
         <source>The recipient address is not valid, please recheck.</source>
         <translation>Adresa príjemcu je neplatná, overte ju prosím.</translation>
     </message>
@@ -2093,11 +2197,16 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location line="+255"/>
+        <source>WARNING: Invalid Bitcoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error: Transaction creation failed!</source>
         <translation type="obsolete">Chyba: Vytvorenie transakcie zlyhalo!</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="-250"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
         <translation>Chyba: Transakcia bola zamietnutá. To môže nastať, ak niektoré z mincí vo vašej peňaženke sa už použili, ako napríklad, ak ste použili kópiu wallet.dat a mince boli použité v kópii, ale neboli označené tu ako použité.</translation>
     </message>
@@ -2106,12 +2215,14 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <translation type="obsolete">UPOZORNENIE: Neplatná Asiacoin adresa</translation>
     </message>
     <message>
+        <location line="+263"/>
         <source>(no label)</source>
-        <translation type="obsolete">(bez popisu)</translation>
+        <translation type="unfinished">(bez popisu)</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation type="obsolete">UPOZORNENIE: Neznáma zmena adresy</translation>
+        <translation type="unfinished">UPOZORNENIE: Neznáma zmena adresy</translation>
     </message>
 </context>
 <context>
@@ -2938,7 +3049,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
 <context>
     <name>WalletModel</name>
     <message>
-        <location filename="../walletmodel.cpp" line="+199"/>
+        <location filename="../walletmodel.cpp" line="+206"/>
         <source>Sending...</source>
         <translation>Posielam...</translation>
     </message>

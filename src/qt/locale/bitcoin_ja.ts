@@ -809,220 +809,284 @@ Address: %4
 <context>
     <name>CoinControlDialog</name>
     <message>
+        <location filename="../forms/coincontroldialog.ui" line="+14"/>
         <source>Coin Control</source>
-        <translation type="obsolete">コインのコントロール</translation>
+        <translation type="unfinished">コインのコントロール</translation>
     </message>
     <message>
+        <location line="+31"/>
         <source>Quantity:</source>
-        <translation type="obsolete">数量：</translation>
+        <translation type="unfinished">数量：</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+32"/>
+        <source>0</source>
+        <translation type="unfinished">0</translation>
+    </message>
+    <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">バイト</translation>
+        <translation type="unfinished">バイト</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Amount:</source>
-        <translation type="obsolete">総額:</translation>
+        <translation type="unfinished">総額:</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+80"/>
+        <location line="+86"/>
+        <location line="+38"/>
+        <source>0.00 NVC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">優先:</translation>
+        <translation type="unfinished">優先:</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Fee:</source>
-        <translation type="obsolete">料金:</translation>
+        <translation type="unfinished">料金:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">アウトプット低い:</translation>
+        <translation type="unfinished">アウトプット低い:</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location filename="../coincontroldialog.cpp" line="+555"/>
         <source>no</source>
-        <translation type="obsolete">いいえ</translation>
+        <translation type="unfinished">いいえ</translation>
     </message>
     <message>
+        <location line="+29"/>
         <source>After Fee:</source>
-        <translation type="obsolete">料金の後</translation>
+        <translation type="unfinished">料金の後</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change:</source>
-        <translation type="obsolete">お釣り:</translation>
+        <translation type="unfinished">お釣り:</translation>
     </message>
     <message>
+        <location line="+69"/>
         <source>(un)select all</source>
-        <translation type="obsolete">すべてを選択か選択を解除</translation>
+        <translation type="unfinished">すべてを選択か選択を解除</translation>
     </message>
     <message>
+        <location line="+13"/>
         <source>Tree mode</source>
-        <translation type="obsolete">木モード</translation>
+        <translation type="unfinished">木モード</translation>
     </message>
     <message>
+        <location line="+16"/>
         <source>List mode</source>
-        <translation type="obsolete">リストモード</translation>
+        <translation type="unfinished">リストモード</translation>
     </message>
     <message>
+        <location line="+45"/>
         <source>Amount</source>
-        <translation type="obsolete">総額</translation>
+        <translation type="unfinished">総額</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Label</source>
-        <translation type="obsolete">レベル</translation>
+        <translation type="unfinished">レベル</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Address</source>
-        <translation type="obsolete">アドレス</translation>
+        <translation type="unfinished">アドレス</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Date</source>
-        <translation type="obsolete">日付</translation>
+        <translation type="unfinished">日付</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Confirmations</source>
-        <translation type="obsolete">検証済みの数</translation>
+        <translation type="unfinished">検証済みの数</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Confirmed</source>
-        <translation type="obsolete">検証済</translation>
+        <translation type="unfinished">検証済</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Priority</source>
-        <translation type="obsolete">優先</translation>
+        <translation type="unfinished">優先</translation>
     </message>
     <message>
+        <location filename="../coincontroldialog.cpp" line="-519"/>
         <source>Copy address</source>
-        <translation type="obsolete">アドレスをコピー</translation>
+        <translation type="unfinished">アドレスをコピー</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy label</source>
-        <translation type="obsolete">ラベルをコピー</translation>
+        <translation type="unfinished">ラベルをコピー</translation>
     </message>
     <message>
+        <location line="+1"/>
+        <location line="+26"/>
         <source>Copy amount</source>
-        <translation type="obsolete">総額のコピー</translation>
+        <translation type="unfinished">総額のコピー</translation>
     </message>
     <message>
+        <location line="-25"/>
         <source>Copy transaction ID</source>
-        <translation type="obsolete">処理のIDをコピー</translation>
+        <translation type="unfinished">処理のIDをコピー</translation>
     </message>
     <message>
+        <location line="+24"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">数量をコピー</translation>
+        <translation type="unfinished">数量をコピー</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Copy fee</source>
-        <translation type="obsolete">料金をコピー</translation>
+        <translation type="unfinished">料金をコピー</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">料金の後をコピー</translation>
+        <translation type="unfinished">料金の後をコピー</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">バイトをコピー</translation>
+        <translation type="unfinished">バイトをコピー</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">優先をコピー</translation>
+        <translation type="unfinished">優先をコピー</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">アウトプット低いをコピー</translation>
+        <translation type="unfinished">アウトプット低いをコピー</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">お釣りをコピー</translation>
+        <translation type="unfinished">お釣りをコピー</translation>
     </message>
     <message>
+        <location line="+321"/>
         <source>highest</source>
-        <translation type="obsolete">最高</translation>
+        <translation type="unfinished">最高</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>high</source>
-        <translation type="obsolete">高い</translation>
+        <translation type="unfinished">高い</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium-high</source>
-        <translation type="obsolete">中高</translation>
+        <translation type="unfinished">中高</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium</source>
-        <translation type="obsolete">中</translation>
+        <translation type="unfinished">中</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>low-medium</source>
-        <translation type="obsolete">中低</translation>
+        <translation type="unfinished">中低</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>low</source>
-        <translation type="obsolete">低い</translation>
+        <translation type="unfinished">低い</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>lowest</source>
-        <translation type="obsolete">最低</translation>
+        <translation type="unfinished">最低</translation>
     </message>
     <message>
+        <location line="+155"/>
         <source>DUST</source>
-        <translation type="obsolete">ほこり</translation>
+        <translation type="unfinished">ほこり</translation>
     </message>
     <message>
+        <location line="+0"/>
         <source>yes</source>
-        <translation type="obsolete">はい</translation>
+        <translation type="unfinished">はい</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>This label turns red, if the transaction size is bigger than 10000 bytes.
 
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation type="obsolete">このラベルが赤くなったら、処理の大きさは10000バイトより大きいです。
+        <translation type="unfinished">このラベルが赤くなったら、処理の大きさは10000バイトより大きいです。
 
 少なくとも%1 KBあたりの料金は必要となります。
 
 入力データによって、料金の+/-1 バイトが可能です。</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Transactions with higher priority get more likely into a block.
 
 This label turns red, if the priority is smaller than &quot;medium&quot;.
 
  This means a fee of at least %1 per kb is required.</source>
-        <translation type="obsolete">高い優先ありの処理の方はブロックに書き込み可能性が高い。
+        <translation type="unfinished">高い優先ありの処理の方はブロックに書き込み可能性が高い。
 
 このラベルは優先の設定は中より低いです。
 
 少なくとも%1 KBあたりの料金は必要となります。</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>This label turns red, if any recipient receives an amount smaller than %1.
 
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation type="obsolete">任意の受信者は%1より少ない額をもらったばい、このラベルは赤くなる。
+        <translation type="unfinished">任意の受信者は%1より少ない額をもらったばい、このラベルは赤くなる。
 
 少なくとも%2の料金は必要となります。
 
 最小なリレー料金　x　0.546より下の額は、ほこりになります。</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation type="obsolete">このラベルが赤くなたら、お釣りは%1より少ない。
+        <translation type="unfinished">このラベルが赤くなたら、お釣りは%1より少ない。
 
 少なくとも%2の料金は必要となります。</translation>
     </message>
     <message>
+        <location line="+37"/>
+        <location line="+66"/>
         <source>(no label)</source>
-        <translation type="obsolete">（ラベル無し）</translation>
+        <translation type="unfinished">（ラベル無し）</translation>
     </message>
     <message>
+        <location line="-9"/>
         <source>change from %1 (%2)</source>
-        <translation type="obsolete">%1 (%2)からお釣り</translation>
+        <translation type="unfinished">%1 (%2)からお釣り</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>(change)</source>
-        <translation type="obsolete">(お釣り)</translation>
+        <translation type="unfinished">(お釣り)</translation>
     </message>
 </context>
 <context>
@@ -1331,15 +1395,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>インターフェース上の表示とコインの送信で使用する単位を選択します。</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Whether to show coin control features or not.</source>
-        <translation type="obsolete">コインコントロールを表示する／しない。</translation>
+        <translation type="unfinished">コインコントロールを表示する／しない。</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation type="obsolete">コインコントロールの設定を表示する(有識者のみ！)</translation>
+        <translation type="unfinished">コインコントロールの設定を表示する(有識者のみ！)</translation>
     </message>
     <message>
-        <location line="+83"/>
+        <location line="+71"/>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
     </message>
@@ -1359,7 +1425,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>初期値</translation>
     </message>
     <message>
-        <location line="+147"/>
+        <location line="+148"/>
         <location line="+9"/>
         <source>Warning</source>
         <translation>警告</translation>
@@ -1709,7 +1775,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>SendCoinsDialog</name>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="+14"/>
-        <location filename="../sendcoinsdialog.cpp" line="+124"/>
+        <location filename="../sendcoinsdialog.cpp" line="+179"/>
         <location line="+5"/>
         <location line="+5"/>
         <location line="+5"/>
@@ -1720,75 +1786,100 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>コインを送る</translation>
     </message>
     <message>
+        <location line="+76"/>
         <source>Coin Control Features</source>
-        <translation type="obsolete">コインのコントロールの設定</translation>
+        <translation type="unfinished">コインのコントロールの設定</translation>
     </message>
     <message>
+        <location line="+20"/>
         <source>Inputs...</source>
-        <translation type="obsolete">入力...</translation>
+        <translation type="unfinished">入力...</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>automatically selected</source>
-        <translation type="obsolete">自動的に選択</translation>
+        <translation type="unfinished">自動的に選択</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="obsolete">資金不足！</translation>
+        <translation type="unfinished">資金不足！</translation>
     </message>
     <message>
+        <location line="+77"/>
         <source>Quantity:</source>
-        <translation type="obsolete">数量：</translation>
+        <translation type="unfinished">数量：</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+35"/>
         <source>0</source>
-        <translation type="obsolete">0</translation>
+        <translation type="unfinished">0</translation>
     </message>
     <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">バイト</translation>
+        <translation type="unfinished">バイト</translation>
     </message>
     <message>
+        <location line="+51"/>
         <source>Amount:</source>
-        <translation type="obsolete">総額:</translation>
+        <translation type="unfinished">総額:</translation>
     </message>
     <message>
         <source>0.00 BC</source>
         <translation type="obsolete">123.456 BC {0.00 ?}</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+86"/>
+        <location line="+86"/>
+        <location line="+32"/>
+        <source>0.00 BTC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">優先:</translation>
+        <translation type="unfinished">優先:</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>medium</source>
-        <translation type="obsolete">中</translation>
+        <translation type="unfinished">中</translation>
     </message>
     <message>
+        <location line="+32"/>
         <source>Fee:</source>
-        <translation type="obsolete">料金:</translation>
+        <translation type="unfinished">料金:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">アウトプット低い:</translation>
+        <translation type="unfinished">アウトプット低い:</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>no</source>
-        <translation type="obsolete">いいえ</translation>
+        <translation type="unfinished">いいえ</translation>
     </message>
     <message>
+        <location line="+32"/>
         <source>After Fee:</source>
-        <translation type="obsolete">料金の後</translation>
+        <translation type="unfinished">料金の後</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change</source>
-        <translation type="obsolete">お釣り:</translation>
-    </message>
-    <message>
-        <source>custom change address</source>
-        <translation type="obsolete">カスタムのお釣りのアドレス</translation>
+        <translation type="unfinished">お釣り:</translation>
     </message>
     <message>
         <location line="+50"/>
+        <source>custom change address</source>
+        <translation type="unfinished">カスタムのお釣りのアドレス</translation>
+    </message>
+    <message>
+        <location line="+106"/>
         <source>Send to multiple recipients at once</source>
         <translation>一度に複数の人に送る</translation>
     </message>
@@ -1814,7 +1905,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 AC</source>
+        <source>123.456 BTC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1836,39 +1927,52 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation type="obsolete">ブラックコインアドレスの入力 (例；B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
+        <location filename="../sendcoinsdialog.cpp" line="-173"/>
+        <source>Enter a valid AsiaCoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">数量をコピー</translation>
+        <translation type="unfinished">数量をコピー</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="obsolete">総額のコピー</translation>
+        <translation type="unfinished">総額のコピー</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy fee</source>
-        <translation type="obsolete">料金をコピー</translation>
+        <translation type="unfinished">料金をコピー</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">料金の後をコピー</translation>
+        <translation type="unfinished">料金の後をコピー</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">バイトをコピー</translation>
+        <translation type="unfinished">バイトをコピー</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">優先をコピー</translation>
+        <translation type="unfinished">優先をコピー</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">アウトプット低いをコピー</translation>
+        <translation type="unfinished">アウトプット低いをコピー</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">お釣りをコピー</translation>
+        <translation type="unfinished">お釣りをコピー</translation>
     </message>
     <message>
-        <location filename="../sendcoinsdialog.cpp" line="-59"/>
+        <location line="+86"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
         <translation>&lt;b&gt;%1&lt;/b&gt; から %2 (%3)に</translation>
     </message>
@@ -1888,7 +1992,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>と</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+29"/>
         <source>The recipient address is not valid, please recheck.</source>
         <translation>受取人のアドレスが不正です。再確認してください。</translation>
     </message>
@@ -1923,16 +2027,23 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>エラー：処理は拒否されました。ウォレットのコインをすでに費やした可能性で、wallet.datのコピーで費やしたが、現行のwallet.datとはアップデートされていない。</translation>
     </message>
     <message>
+        <location line="+250"/>
+        <source>WARNING: Invalid Bitcoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WARNING: Invalid Asiacoin address</source>
         <translation type="obsolete">警告：無効なブラックコインアドレス</translation>
     </message>
     <message>
+        <location line="+13"/>
         <source>(no label)</source>
-        <translation type="obsolete">（ラベル無し）</translation>
+        <translation type="unfinished">（ラベル無し）</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation type="obsolete">警告：不明なお釣りのアドレス</translation>
+        <translation type="unfinished">警告：不明なお釣りのアドレス</translation>
     </message>
 </context>
 <context>
@@ -2728,7 +2839,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 <context>
     <name>WalletModel</name>
     <message>
-        <location filename="../walletmodel.cpp" line="+199"/>
+        <location filename="../walletmodel.cpp" line="+206"/>
         <source>Sending...</source>
         <translation>通信中...</translation>
     </message>

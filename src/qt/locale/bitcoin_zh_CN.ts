@@ -892,213 +892,277 @@ Address: %4
 <context>
     <name>CoinControlDialog</name>
     <message>
+        <location filename="../forms/coincontroldialog.ui" line="+14"/>
         <source>Coin Control</source>
-        <translation type="obsolete">黑币控制</translation>
+        <translation type="unfinished">黑币控制</translation>
     </message>
     <message>
+        <location line="+31"/>
         <source>Quantity:</source>
-        <translation type="obsolete">总量：</translation>
+        <translation type="unfinished">总量：</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+32"/>
+        <source>0</source>
+        <translation type="unfinished">0</translation>
+    </message>
+    <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">字节：</translation>
+        <translation type="unfinished">字节：</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Amount:</source>
-        <translation type="obsolete">金额：</translation>
+        <translation type="unfinished">金额：</translation>
     </message>
     <message>
+        <location line="+19"/>
+        <location line="+80"/>
+        <location line="+86"/>
+        <location line="+38"/>
+        <source>0.00 NVC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">优先级：</translation>
+        <translation type="unfinished">优先级：</translation>
     </message>
     <message>
+        <location line="+48"/>
         <source>Fee:</source>
-        <translation type="obsolete">费用：</translation>
+        <translation type="unfinished">费用：</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">低输出</translation>
+        <translation type="unfinished">低输出</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location filename="../coincontroldialog.cpp" line="+555"/>
         <source>no</source>
-        <translation type="obsolete">否</translation>
+        <translation type="unfinished">否</translation>
     </message>
     <message>
+        <location line="+29"/>
         <source>After Fee:</source>
-        <translation type="obsolete">加上交易费用后:</translation>
+        <translation type="unfinished">加上交易费用后:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change:</source>
-        <translation type="obsolete">变更 : </translation>
+        <translation type="unfinished">变更 : </translation>
     </message>
     <message>
+        <location line="+69"/>
         <source>(un)select all</source>
-        <translation type="obsolete">(不)全选</translation>
+        <translation type="unfinished">(不)全选</translation>
     </message>
     <message>
+        <location line="+13"/>
         <source>Tree mode</source>
-        <translation type="obsolete">树状模式</translation>
+        <translation type="unfinished">树状模式</translation>
     </message>
     <message>
+        <location line="+16"/>
         <source>List mode</source>
-        <translation type="obsolete">列表模式</translation>
+        <translation type="unfinished">列表模式</translation>
     </message>
     <message>
+        <location line="+45"/>
         <source>Amount</source>
-        <translation type="obsolete">金额</translation>
+        <translation type="unfinished">金额</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Label</source>
-        <translation type="obsolete">标签</translation>
+        <translation type="unfinished">标签</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Address</source>
-        <translation type="obsolete">地址</translation>
+        <translation type="unfinished">地址</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Date</source>
-        <translation type="obsolete">日期</translation>
+        <translation type="unfinished">日期</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Confirmations</source>
-        <translation type="obsolete">确认</translation>
+        <translation type="unfinished">确认</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Confirmed</source>
-        <translation type="obsolete">已确认</translation>
+        <translation type="unfinished">已确认</translation>
     </message>
     <message>
+        <location line="+5"/>
         <source>Priority</source>
-        <translation type="obsolete">优先级</translation>
+        <translation type="unfinished">优先级</translation>
     </message>
     <message>
+        <location filename="../coincontroldialog.cpp" line="-519"/>
         <source>Copy address</source>
-        <translation type="obsolete">复制地址</translation>
+        <translation type="unfinished">复制地址</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy label</source>
-        <translation type="obsolete">复制标签</translation>
+        <translation type="unfinished">复制标签</translation>
     </message>
     <message>
+        <location line="+1"/>
+        <location line="+26"/>
         <source>Copy amount</source>
-        <translation type="obsolete">复制金额</translation>
+        <translation type="unfinished">复制金额</translation>
     </message>
     <message>
+        <location line="-25"/>
         <source>Copy transaction ID</source>
-        <translation type="obsolete">复制交易编号</translation>
+        <translation type="unfinished">复制交易编号</translation>
     </message>
     <message>
+        <location line="+24"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">复制金额</translation>
+        <translation type="unfinished">复制金额</translation>
     </message>
     <message>
+        <location line="+2"/>
         <source>Copy fee</source>
-        <translation type="obsolete">复制交易费</translation>
+        <translation type="unfinished">复制交易费</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">复制含交易费的金额</translation>
+        <translation type="unfinished">复制含交易费的金额</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">复制字节</translation>
+        <translation type="unfinished">复制字节</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">复制优先级</translation>
+        <translation type="unfinished">复制优先级</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">复制低输出</translation>
+        <translation type="unfinished">复制低输出</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">复制零钱</translation>
+        <translation type="unfinished">复制零钱</translation>
     </message>
     <message>
+        <location line="+321"/>
         <source>highest</source>
-        <translation type="obsolete">最高</translation>
+        <translation type="unfinished">最高</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>high</source>
-        <translation type="obsolete">高</translation>
+        <translation type="unfinished">高</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium-high</source>
-        <translation type="obsolete">中高</translation>
+        <translation type="unfinished">中高</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>medium</source>
-        <translation type="obsolete">中等</translation>
+        <translation type="unfinished">中等</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>low-medium</source>
-        <translation type="obsolete">中低</translation>
+        <translation type="unfinished">中低</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>low</source>
-        <translation type="obsolete">低</translation>
+        <translation type="unfinished">低</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>lowest</source>
-        <translation type="obsolete">最低</translation>
+        <translation type="unfinished">最低</translation>
     </message>
     <message>
+        <location line="+155"/>
         <source>DUST</source>
-        <translation type="obsolete">DUST</translation>
+        <translation type="unfinished">DUST</translation>
     </message>
     <message>
+        <location line="+0"/>
         <source>yes</source>
-        <translation type="obsolete">是</translation>
+        <translation type="unfinished">是</translation>
     </message>
     <message>
+        <location line="+10"/>
         <source>This label turns red, if the transaction size is bigger than 10000 bytes.
 
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation type="obsolete">交易数据量超过10000字节时，该标签变为红色。
+        <translation type="unfinished">交易数据量超过10000字节时，该标签变为红色。
 此时每kb数据量将会收取 %1 的手续费。
 可能有+/-1字节的误差。</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Transactions with higher priority get more likely into a block.
 
 This label turns red, if the priority is smaller than &quot;medium&quot;.
 
  This means a fee of at least %1 per kb is required.</source>
-        <translation type="obsolete">优先度较高的交易有更高可能进入到区块中。
+        <translation type="unfinished">优先度较高的交易有更高可能进入到区块中。
 当优先度为中级以下时，该标签变为红色。
 此时需要收取每kb %1 的手续费。</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>This label turns red, if any recipient receives an amount smaller than %1.
 
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation type="obsolete">如果收款人所收款项少于 %1，该标签变为红色。
+        <translation type="unfinished">如果收款人所收款项少于 %1，该标签变为红色。
 此时需收取 %2 的手续费。
 低于该手续费的0.546倍的款项将被显示为DUST。</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation type="obsolete">如果零钱少于 %1，该标签变为红色。
+        <translation type="unfinished">如果零钱少于 %1，该标签变为红色。
 此时需收取 %2 的手续费。</translation>
     </message>
     <message>
+        <location line="+37"/>
+        <location line="+66"/>
         <source>(no label)</source>
-        <translation type="obsolete">(没有标签)</translation>
+        <translation type="unfinished">(没有标签)</translation>
     </message>
     <message>
+        <location line="-9"/>
         <source>change from %1 (%2)</source>
-        <translation type="obsolete">来自%1的零钱 (%2)</translation>
+        <translation type="unfinished">来自%1的零钱 (%2)</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>(change)</source>
-        <translation type="obsolete">(零钱)</translation>
+        <translation type="unfinished">(零钱)</translation>
     </message>
 </context>
 <context>
@@ -1407,19 +1471,21 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>选择黑币单位。</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Whether to show coin control features or not.</source>
-        <translation type="obsolete">是否需要交易源地址控制功能。</translation>
+        <translation type="unfinished">是否需要交易源地址控制功能。</translation>
     </message>
     <message>
+        <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation type="obsolete">显示黑币控制选项(仅用于专家用户)</translation>
+        <translation type="unfinished">显示黑币控制选项(仅用于专家用户)</translation>
     </message>
     <message>
         <source>Use black visual theme (requires restart)</source>
         <translation type="obsolete">使用黑色主题(需要重启钱包)</translation>
     </message>
     <message>
-        <location line="+83"/>
+        <location line="+71"/>
         <source>&amp;OK</source>
         <translation>确定(&amp;O)</translation>
     </message>
@@ -1439,7 +1505,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>默认</translation>
     </message>
     <message>
-        <location line="+147"/>
+        <location line="+148"/>
         <location line="+9"/>
         <source>Warning</source>
         <translation>警告</translation>
@@ -1837,7 +1903,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>SendCoinsDialog</name>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="+14"/>
-        <location filename="../sendcoinsdialog.cpp" line="+124"/>
+        <location filename="../sendcoinsdialog.cpp" line="+179"/>
         <location line="+5"/>
         <location line="+5"/>
         <location line="+5"/>
@@ -1848,75 +1914,100 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>发送货币</translation>
     </message>
     <message>
+        <location line="+76"/>
         <source>Coin Control Features</source>
-        <translation type="obsolete">交易源地址控制功能</translation>
+        <translation type="unfinished">交易源地址控制功能</translation>
     </message>
     <message>
+        <location line="+20"/>
         <source>Inputs...</source>
-        <translation type="obsolete">输入...</translation>
+        <translation type="unfinished">输入...</translation>
     </message>
     <message>
+        <location line="+7"/>
         <source>automatically selected</source>
-        <translation type="obsolete">自动选择</translation>
+        <translation type="unfinished">自动选择</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation type="obsolete">存款不足！</translation>
+        <translation type="unfinished">存款不足！</translation>
     </message>
     <message>
+        <location line="+77"/>
         <source>Quantity:</source>
-        <translation type="obsolete">总量：</translation>
+        <translation type="unfinished">总量：</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+35"/>
         <source>0</source>
-        <translation type="obsolete">0</translation>
+        <translation type="unfinished">0</translation>
     </message>
     <message>
+        <location line="-19"/>
         <source>Bytes:</source>
-        <translation type="obsolete">字节：</translation>
+        <translation type="unfinished">字节：</translation>
     </message>
     <message>
+        <location line="+51"/>
         <source>Amount:</source>
-        <translation type="obsolete">金额：</translation>
+        <translation type="unfinished">金额：</translation>
     </message>
     <message>
         <source>0.00 BC</source>
         <translation type="obsolete">123.456 BC {0.00 ?}</translation>
     </message>
     <message>
+        <location line="+22"/>
+        <location line="+86"/>
+        <location line="+86"/>
+        <location line="+32"/>
+        <source>0.00 BTC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="-191"/>
         <source>Priority:</source>
-        <translation type="obsolete">优先级：</translation>
+        <translation type="unfinished">优先级：</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>medium</source>
-        <translation type="obsolete">中等</translation>
+        <translation type="unfinished">中等</translation>
     </message>
     <message>
+        <location line="+32"/>
         <source>Fee:</source>
-        <translation type="obsolete">费用：</translation>
+        <translation type="unfinished">费用：</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Low Output:</source>
-        <translation type="obsolete">低输出</translation>
+        <translation type="unfinished">低输出</translation>
     </message>
     <message>
+        <location line="+19"/>
         <source>no</source>
-        <translation type="obsolete">no</translation>
+        <translation type="unfinished">no</translation>
     </message>
     <message>
+        <location line="+32"/>
         <source>After Fee:</source>
-        <translation type="obsolete">加上交易费用后:</translation>
+        <translation type="unfinished">加上交易费用后:</translation>
     </message>
     <message>
+        <location line="+35"/>
         <source>Change</source>
-        <translation type="obsolete">零钱</translation>
-    </message>
-    <message>
-        <source>custom change address</source>
-        <translation type="obsolete">自定义零钱地址</translation>
+        <translation type="unfinished">零钱</translation>
     </message>
     <message>
         <location line="+50"/>
+        <source>custom change address</source>
+        <translation type="unfinished">自定义零钱地址</translation>
+    </message>
+    <message>
+        <location line="+106"/>
         <source>Send to multiple recipients at once</source>
         <translation>一次发送给多个接收者</translation>
     </message>
@@ -1942,7 +2033,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 AC</source>
+        <source>123.456 BTC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1964,39 +2055,52 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation type="obsolete">输入黑币地址(例如：B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
+        <location filename="../sendcoinsdialog.cpp" line="-173"/>
+        <source>Enter a valid AsiaCoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+15"/>
         <source>Copy quantity</source>
-        <translation type="obsolete">复制金额</translation>
+        <translation type="unfinished">复制金额</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="obsolete">复制金额</translation>
+        <translation type="unfinished">复制金额</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy fee</source>
-        <translation type="obsolete">复制交易费</translation>
+        <translation type="unfinished">复制交易费</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy after fee</source>
-        <translation type="obsolete">复制含交易费的金额</translation>
+        <translation type="unfinished">复制含交易费的金额</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy bytes</source>
-        <translation type="obsolete">复制字节</translation>
+        <translation type="unfinished">复制字节</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy priority</source>
-        <translation type="obsolete">复制优先级</translation>
+        <translation type="unfinished">复制优先级</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy low output</source>
-        <translation type="obsolete">复制低输出</translation>
+        <translation type="unfinished">复制低输出</translation>
     </message>
     <message>
+        <location line="+1"/>
         <source>Copy change</source>
-        <translation type="obsolete">复制零钱</translation>
+        <translation type="unfinished">复制零钱</translation>
     </message>
     <message>
-        <location filename="../sendcoinsdialog.cpp" line="-59"/>
+        <location line="+86"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
         <translation>&lt;b&gt;%1&lt;/b&gt; 至 %2 (%3)</translation>
     </message>
@@ -2016,7 +2120,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation>和</translation>
     </message>
     <message>
-        <location line="+23"/>
+        <location line="+29"/>
         <source>The recipient address is not valid, please recheck.</source>
         <translation>收款人地址不合法，请检查。</translation>
     </message>
@@ -2046,11 +2150,16 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location line="+255"/>
+        <source>WARNING: Invalid Bitcoin address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error: Transaction creation failed!</source>
         <translation type="obsolete">错误：交易创建失败。</translation>
     </message>
     <message>
-        <location line="+5"/>
+        <location line="-250"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
         <translation>错误：交易被拒绝。可能由于钱包中部分金额已被使用，例如您使用了钱包数据的副本，在副本中某些金额已被使用，但在此处尚未被标记为已使用。</translation>
     </message>
@@ -2059,12 +2168,14 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation type="obsolete">警告：无效的黑币地址</translation>
     </message>
     <message>
+        <location line="+263"/>
         <source>(no label)</source>
-        <translation type="obsolete">(没有标签)</translation>
+        <translation type="unfinished">(没有标签)</translation>
     </message>
     <message>
+        <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation type="obsolete">警告：未知的零钱地址</translation>
+        <translation type="unfinished">警告：未知的零钱地址</translation>
     </message>
 </context>
 <context>
@@ -2877,7 +2988,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 <context>
     <name>WalletModel</name>
     <message>
-        <location filename="../walletmodel.cpp" line="+199"/>
+        <location filename="../walletmodel.cpp" line="+206"/>
         <source>Sending...</source>
         <translation>正在发送</translation>
     </message>
