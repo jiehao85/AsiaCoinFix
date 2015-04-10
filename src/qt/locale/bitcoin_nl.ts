@@ -209,7 +209,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="obsolete">Alleen voor staking</translation>
     </message>
     <message>
-        <location filename="../askpassphrasedialog.cpp" line="+33"/>
+        <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -219,7 +219,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Versleutel portemonnee</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
         <translation>Deze operatie vereist uw portemonneewachtwoord om de portemonnee te openen.</translation>
     </message>
@@ -274,14 +274,14 @@ Copyright © 2014 AsiaCoin Developers
         <translation>BELANGRIJK: Elke eerder gemaakte backup van uw portemonneebestand dient u te vervangen door het nieuw gegenereerde, versleutelde portemonneebestand. Om veiligheidsredenen zullen eerdere backups van het niet-versleutelde portemonneebestand onbruikbaar worden zodra u uw nieuwe, versleutelde, portemonnee begint te gebruiken.</translation>
     </message>
     <message>
-        <location line="+100"/>
+        <location line="+113"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
         <translation>Waarschuwing: De Caps-Lock-toets staat aan!</translation>
     </message>
     <message>
-        <location line="-130"/>
-        <location line="+58"/>
+        <location line="-143"/>
+        <location line="+70"/>
         <source>Wallet encrypted</source>
         <translation>Portemonnee versleuteld</translation>
     </message>
@@ -290,32 +290,34 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="obsolete">Asiacoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
     </message>
     <message>
-        <location line="-43"/>
+        <location line="-55"/>
         <location line="+7"/>
-        <location line="+42"/>
+        <location line="+54"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
         <translation>Portemonneeversleuteling mislukt</translation>
     </message>
     <message>
-        <location line="-54"/>
+        <location line="-66"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
         <translation>Portemonneeversleuteling mislukt door een interne fout. Uw portemonnee is niet versleuteld.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location line="+48"/>
+        <location line="+60"/>
         <source>The supplied passphrases do not match.</source>
         <translation>De opgegeven wachtwoorden komen niet overeen</translation>
     </message>
     <message>
-        <location line="-37"/>
+        <location line="-49"/>
+        <location line="+11"/>
         <source>Wallet unlock failed</source>
         <translation>Portemonnee openen mislukt</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-10"/>
         <location line="+11"/>
+        <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
         <translation>Het opgegeven wachtwoord voor de portemonnee-ontsleuteling is niet correct.</translation>
@@ -334,12 +336,12 @@ Copyright © 2014 AsiaCoin Developers
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <location filename="../bitcoingui.cpp" line="+264"/>
+        <location filename="../bitcoingui.cpp" line="+263"/>
         <source>Sign &amp;message...</source>
         <translation>&amp;Onderteken bericht...</translation>
     </message>
     <message>
-        <location line="-65"/>
+        <location line="-61"/>
         <source>Show general overview of wallet</source>
         <translation>Toon algemeen overzicht van de portemonnee</translation>
     </message>
@@ -443,7 +445,27 @@ Copyright © 2014 AsiaCoin Developers
         <translation>&amp;Wijzig Wachtwoord</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+5"/>
+        <source>&amp;Lock wallet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Unlo&amp;ck wallet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Unlo&amp;ck wallet for mining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Unlock wallet for mining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <source>&amp;Export...</source>
         <translation>&amp;Exporteren...</translation>
     </message>
@@ -461,7 +483,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Exporteer de data in de huidige tab naar een bestand</translation>
     </message>
     <message>
-        <location line="-14"/>
+        <location line="-22"/>
         <source>Encrypt or decrypt wallet</source>
         <translation>Versleutel of ontsleutel de portemonnee</translation>
     </message>
@@ -486,7 +508,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Wijzig het wachtwoord voor uw portemonneversleuteling</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+18"/>
         <source>&amp;Debug window</source>
         <translation>&amp;Debugscherm</translation>
     </message>
@@ -496,7 +518,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Open debugging en diagnostische console</translation>
     </message>
     <message>
-        <location line="-5"/>
+        <location line="-17"/>
         <source>&amp;Verify message...</source>
         <translation>&amp;Verifiëer bericht...</translation>
     </message>
@@ -505,7 +527,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="obsolete">Asiacoin</translation>
     </message>
     <message>
-        <location line="-191"/>
+        <location line="-187"/>
         <source>Wallet</source>
         <translation>Portemonnee</translation>
     </message>
@@ -519,22 +541,21 @@ Copyright © 2014 AsiaCoin Developers
         <translation>&amp;Toon / Verberg</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+16"/>
         <source>Unlock wallet</source>
         <translation>Open portemonnee</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>&amp;Lock Wallet</source>
-        <translation>&amp;Sluit portemonnee</translation>
+        <translation type="obsolete">&amp;Sluit portemonnee</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-4"/>
         <source>Lock wallet</source>
         <translation>Sluit portemonnee</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+42"/>
         <source>&amp;File</source>
         <translation>&amp;Bestand</translation>
     </message>
@@ -544,7 +565,12 @@ Copyright © 2014 AsiaCoin Developers
         <translation>&amp;Instellingen</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+1"/>
+        <source>&amp;Wallet security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
         <source>&amp;Help</source>
         <translation>&amp;Hulp</translation>
     </message>
@@ -604,12 +630,11 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="obsolete">&amp;Verzenden</translation>
     </message>
     <message>
-        <location line="-95"/>
         <source>&amp;Unlock Wallet...</source>
-        <translation>Ontgrendel portemonnee...</translation>
+        <translation type="obsolete">Ontgrendel portemonnee...</translation>
     </message>
     <message>
-        <location line="+95"/>
+        <location line="+0"/>
         <location line="+60"/>
         <source>AsiaCoin client</source>
         <translation type="unfinished"></translation>
@@ -747,17 +772,17 @@ Adres: %4
         <translation type="obsolete">URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig Asiacoin adres of incorrecte URI parameters.</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+19"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
         <translation>Portemonnee is &lt;b&gt;versleuteld&lt;/b&gt; en momenteel &lt;b&gt;geopend&lt;/b&gt;</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+19"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
         <translation>Portemonnee is &lt;b&gt;versleuteld&lt;/b&gt; en momenteel &lt;b&gt;gesloten&lt;/b&gt;</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+31"/>
         <source>Backup Wallet</source>
         <translation>Backup Portemonnee</translation>
     </message>
@@ -1653,7 +1678,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <location line="+53"/>
         <location line="+23"/>
         <location line="+23"/>
-        <location filename="../rpcconsole.cpp" line="+348"/>
+        <location filename="../rpcconsole.cpp" line="+350"/>
         <source>N/A</source>
         <translation>N.v.t.</translation>
     </message>

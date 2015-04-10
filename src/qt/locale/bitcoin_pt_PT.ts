@@ -173,7 +173,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Repita a nova frase de segurança</translation>
     </message>
     <message>
-        <location filename="../askpassphrasedialog.cpp" line="+33"/>
+        <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -183,7 +183,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Encriptar carteira</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
         <translation>A sua frase de segurança é necessária para desbloquear a carteira.</translation>
     </message>
@@ -238,44 +238,46 @@ Copyright © 2014 AsiaCoin Developers
         <translation>IMPORTANTE: Qualquer cópia de segurança anterior da carteira deverá ser substituída com o novo, actualmente encriptado, ficheiro de carteira. Por razões de segurança, cópias de segurança não encriptadas efectuadas anteriormente do ficheiro da carteira tornar-se-ão inúteis assim que começar a usar a nova carteira encriptada.</translation>
     </message>
     <message>
-        <location line="+100"/>
+        <location line="+113"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
         <translation>Atenção: A tecla Caps Lock está activa!</translation>
     </message>
     <message>
-        <location line="-130"/>
-        <location line="+58"/>
+        <location line="-143"/>
+        <location line="+70"/>
         <source>Wallet encrypted</source>
         <translation>Carteira encriptada</translation>
     </message>
     <message>
-        <location line="-43"/>
+        <location line="-55"/>
         <location line="+7"/>
-        <location line="+42"/>
+        <location line="+54"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
         <translation>A encriptação da carteira falhou</translation>
     </message>
     <message>
-        <location line="-54"/>
+        <location line="-66"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
         <translation>A encriptação da carteira falhou devido a um erro interno. A carteira não foi encriptada.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location line="+48"/>
+        <location line="+60"/>
         <source>The supplied passphrases do not match.</source>
         <translation>As frases de segurança fornecidas não coincidem.</translation>
     </message>
     <message>
-        <location line="-37"/>
+        <location line="-49"/>
+        <location line="+11"/>
         <source>Wallet unlock failed</source>
         <translation>O desbloqueio da carteira falhou</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-10"/>
         <location line="+11"/>
+        <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
         <translation>A frase de segurança introduzida para a desencriptação da carteira estava incorreta.</translation>
@@ -294,12 +296,12 @@ Copyright © 2014 AsiaCoin Developers
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <location filename="../bitcoingui.cpp" line="+264"/>
+        <location filename="../bitcoingui.cpp" line="+263"/>
         <source>Sign &amp;message...</source>
         <translation>Assinar &amp;mensagem...</translation>
     </message>
     <message>
-        <location line="-65"/>
+        <location line="-61"/>
         <source>Show general overview of wallet</source>
         <translation>Mostrar visão geral da carteira</translation>
     </message>
@@ -399,7 +401,27 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Mudar &amp;Palavra-passe...</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+5"/>
+        <source>&amp;Lock wallet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Unlo&amp;ck wallet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Unlo&amp;ck wallet for mining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Unlock wallet for mining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <source>&amp;Export...</source>
         <translation type="unfinished"></translation>
     </message>
@@ -409,7 +431,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-14"/>
+        <location line="-22"/>
         <source>Encrypt or decrypt wallet</source>
         <translation type="unfinished"></translation>
     </message>
@@ -434,7 +456,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Mudar a frase de segurança utilizada na encriptação da carteira</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+18"/>
         <source>&amp;Debug window</source>
         <translation>Janela de &amp;depuração</translation>
     </message>
@@ -444,12 +466,12 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Abrir consola de diagnóstico e depuração</translation>
     </message>
     <message>
-        <location line="-5"/>
+        <location line="-17"/>
         <source>&amp;Verify message...</source>
         <translation>&amp;Verificar mensagem...</translation>
     </message>
     <message>
-        <location line="-191"/>
+        <location line="-187"/>
         <source>Wallet</source>
         <translation>Carteira</translation>
     </message>
@@ -459,22 +481,17 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Mo&amp;strar / Ocultar</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+16"/>
         <source>Unlock wallet</source>
         <translation type="unfinished">Desbloquear carteira</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <source>&amp;Lock Wallet</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
+        <location line="-4"/>
         <source>Lock wallet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+42"/>
         <source>&amp;File</source>
         <translation>&amp;Ficheiro</translation>
     </message>
@@ -484,7 +501,12 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Con&amp;figurações</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+1"/>
+        <source>&amp;Wallet security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
         <source>&amp;Help</source>
         <translation>A&amp;juda</translation>
     </message>
@@ -505,12 +527,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>[rede de testes]</translation>
     </message>
     <message>
-        <location line="-95"/>
-        <source>&amp;Unlock Wallet...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+95"/>
+        <location line="+0"/>
         <location line="+60"/>
         <source>AsiaCoin client</source>
         <translation type="unfinished"></translation>
@@ -644,17 +661,17 @@ Endereço: %4
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+19"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
         <translation>A carteira está &lt;b&gt;encriptada&lt;/b&gt; e atualmente &lt;b&gt;desbloqueada&lt;/b&gt;</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+19"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
         <translation>A carteira está &lt;b&gt;encriptada&lt;/b&gt; e atualmente &lt;b&gt;bloqueada&lt;/b&gt;</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+31"/>
         <source>Backup Wallet</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1454,7 +1471,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+53"/>
         <location line="+23"/>
         <location line="+23"/>
-        <location filename="../rpcconsole.cpp" line="+348"/>
+        <location filename="../rpcconsole.cpp" line="+350"/>
         <source>N/A</source>
         <translation>N/D</translation>
     </message>

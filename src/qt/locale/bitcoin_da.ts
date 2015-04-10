@@ -209,7 +209,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="obsolete">Kun til renteberegning</translation>
     </message>
     <message>
-        <location filename="../askpassphrasedialog.cpp" line="+33"/>
+        <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -219,7 +219,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Krypter tegnebog</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
         <translation>Denne funktion har brug for din tegnebogs adgangskode for at låse tegnebogen op.</translation>
     </message>
@@ -274,14 +274,14 @@ Copyright © 2014 AsiaCoin Developers
         <translation>VIGTIGT: Enhver tidligere sikkerhedskopi, som du har lavet af tegnebogsfilen, bør blive erstattet af den nyligt genererede, krypterede tegnebogsfil. Af sikkerhedsmæssige årsager vil tidligere sikkerhedskopier af den ikke-krypterede tegnebogsfil blive ubrugelig i det øjeblik, du starter med at anvende den nye, krypterede tegnebog.</translation>
     </message>
     <message>
-        <location line="+100"/>
+        <location line="+113"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
         <translation>Advarsel: Caps Lock-tasten er aktiveret!</translation>
     </message>
     <message>
-        <location line="-130"/>
-        <location line="+58"/>
+        <location line="-143"/>
+        <location line="+70"/>
         <source>Wallet encrypted</source>
         <translation>Tegnebog krypteret</translation>
     </message>
@@ -290,32 +290,34 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="obsolete">Asiacoin lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
     </message>
     <message>
-        <location line="-43"/>
+        <location line="-55"/>
         <location line="+7"/>
-        <location line="+42"/>
+        <location line="+54"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
         <translation>Tegnebogskryptering mislykkedes</translation>
     </message>
     <message>
-        <location line="-54"/>
+        <location line="-66"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
         <translation>Tegnebogskryptering mislykkedes på grund af en intern fejl. Din tegnebog blev ikke krypteret.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location line="+48"/>
+        <location line="+60"/>
         <source>The supplied passphrases do not match.</source>
         <translation>De angivne adgangskoder stemmer ikke overens.</translation>
     </message>
     <message>
-        <location line="-37"/>
+        <location line="-49"/>
+        <location line="+11"/>
         <source>Wallet unlock failed</source>
         <translation>Tegnebogsoplåsning mislykkedes</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-10"/>
         <location line="+11"/>
+        <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
         <translation>Den angivne adgangskode for tegnebogsdekrypteringen er forkert.</translation>
@@ -334,12 +336,12 @@ Copyright © 2014 AsiaCoin Developers
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <location filename="../bitcoingui.cpp" line="+264"/>
+        <location filename="../bitcoingui.cpp" line="+263"/>
         <source>Sign &amp;message...</source>
         <translation>Underskriv besked...</translation>
     </message>
     <message>
-        <location line="-65"/>
+        <location line="-61"/>
         <source>Show general overview of wallet</source>
         <translation>Vis generel oversigt over tegnebog</translation>
     </message>
@@ -443,7 +445,27 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Skift adgangskode...</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+5"/>
+        <source>&amp;Lock wallet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Unlo&amp;ck wallet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Unlo&amp;ck wallet for mining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Unlock wallet for mining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <source>&amp;Export...</source>
         <translation>&amp;Eksporter...</translation>
     </message>
@@ -461,7 +483,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Eksportere data i den aktuelle fane til en fil</translation>
     </message>
     <message>
-        <location line="-14"/>
+        <location line="-22"/>
         <source>Encrypt or decrypt wallet</source>
         <translation>Kryptere eller dekryptere tegnebog</translation>
     </message>
@@ -486,7 +508,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Skift adgangskode anvendt til tegnebogskryptering</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+18"/>
         <source>&amp;Debug window</source>
         <translation>Fejlsøgningsvindue</translation>
     </message>
@@ -496,7 +518,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Åbn fejlsøgnings- og diagnosticeringskonsollen</translation>
     </message>
     <message>
-        <location line="-5"/>
+        <location line="-17"/>
         <source>&amp;Verify message...</source>
         <translation>Verificér besked...</translation>
     </message>
@@ -505,7 +527,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="obsolete">Asiacoin</translation>
     </message>
     <message>
-        <location line="-191"/>
+        <location line="-187"/>
         <source>Wallet</source>
         <translation>Tegnebog</translation>
     </message>
@@ -519,22 +541,21 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Vis / skjul</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+16"/>
         <source>Unlock wallet</source>
         <translation>Lås tegnebog</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>&amp;Lock Wallet</source>
-        <translation>&amp;Lås tegnebog</translation>
+        <translation type="obsolete">&amp;Lås tegnebog</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-4"/>
         <source>Lock wallet</source>
         <translation>Lås tegnebog</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+42"/>
         <source>&amp;File</source>
         <translation>Fil</translation>
     </message>
@@ -544,7 +565,12 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Indstillinger</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+1"/>
+        <source>&amp;Wallet security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
         <source>&amp;Help</source>
         <translation>Hjælp</translation>
     </message>
@@ -596,12 +622,11 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="obsolete">Ingen rente fordi der ingen modne mønter eksistere </translation>
     </message>
     <message>
-        <location line="-95"/>
         <source>&amp;Unlock Wallet...</source>
-        <translation>Lås tegnebog op</translation>
+        <translation type="obsolete">Lås tegnebog op</translation>
     </message>
     <message>
-        <location line="+95"/>
+        <location line="+0"/>
         <location line="+60"/>
         <source>AsiaCoin client</source>
         <translation type="unfinished"></translation>
@@ -739,17 +764,17 @@ Adresse: %4
         <translation type="obsolete">URI kan ikke tolkes! Dette kan skyldes en ugyldig Asiacoin adresse eller misdannede URI parametre.</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+19"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
         <translation>Tegnebog er &lt;b&gt;krypteret&lt;/b&gt; og i øjeblikket &lt;b&gt;ulåst&lt;/b&gt;</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+19"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
         <translation>Tegnebog er &lt;b&gt;krypteret&lt;/b&gt; og i øjeblikket &lt;b&gt;låst&lt;/b&gt;</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+31"/>
         <source>Backup Wallet</source>
         <translation>Sikkerhedskopier Tegnebog</translation>
     </message>
@@ -1633,7 +1658,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <location line="+53"/>
         <location line="+23"/>
         <location line="+23"/>
-        <location filename="../rpcconsole.cpp" line="+348"/>
+        <location filename="../rpcconsole.cpp" line="+350"/>
         <source>N/A</source>
         <translation>N/A</translation>
     </message>

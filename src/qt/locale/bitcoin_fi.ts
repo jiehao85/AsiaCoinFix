@@ -224,7 +224,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="obsolete">Vain osakkuutta varten</translation>
     </message>
     <message>
-        <location filename="../askpassphrasedialog.cpp" line="+33"/>
+        <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -234,7 +234,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Salaa lompakko</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
         <translation>Tätä toimintoa varten sinun täytyy syöttää lompakon tunnuslause sen avaamiseksi.</translation>
     </message>
@@ -289,14 +289,14 @@ Copyright © 2014 AsiaCoin Developers
         <translation>TÄRKEÄÄ: Kaikki vanhat lompakon varmuuskopiot tulisi korvata uusilla suojatuilla varmuuskopioilla. Turvallisuussyistä edelliset varmuuskopiot muuttuvat käyttökelvottomiksi, kun aloitat uuden salatun lompakon käytön.</translation>
     </message>
     <message>
-        <location line="+100"/>
+        <location line="+113"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
         <translation>Varoitus: Caps Lock-näppäin on käytössä!</translation>
     </message>
     <message>
-        <location line="-130"/>
-        <location line="+58"/>
+        <location line="-143"/>
+        <location line="+70"/>
         <source>Wallet encrypted</source>
         <translation>Lompakko salattu</translation>
     </message>
@@ -309,32 +309,34 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="obsolete">Asiacoin-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
     </message>
     <message>
-        <location line="-43"/>
+        <location line="-55"/>
         <location line="+7"/>
-        <location line="+42"/>
+        <location line="+54"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
         <translation>Lompakon salauksen luonti epäonnistui</translation>
     </message>
     <message>
-        <location line="-54"/>
+        <location line="-66"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
         <translation>Lompakon salaaminen epäonnistui sisäisen virheen vuoksi. Lompakkoasi ei salattu.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location line="+48"/>
+        <location line="+60"/>
         <source>The supplied passphrases do not match.</source>
         <translation>Syötetyt tunnuslauseet eivät täsmää.</translation>
     </message>
     <message>
-        <location line="-37"/>
+        <location line="-49"/>
+        <location line="+11"/>
         <source>Wallet unlock failed</source>
         <translation>Lompakon avaaminen epäonnistui.</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-10"/>
         <location line="+11"/>
+        <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
         <translation>Syötetty tunnuslause lompakon salauksen purkua varten oli väärä.</translation>
@@ -353,12 +355,12 @@ Copyright © 2014 AsiaCoin Developers
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <location filename="../bitcoingui.cpp" line="+264"/>
+        <location filename="../bitcoingui.cpp" line="+263"/>
         <source>Sign &amp;message...</source>
         <translation>Allekirjoita &amp;viesti...</translation>
     </message>
     <message>
-        <location line="-65"/>
+        <location line="-61"/>
         <source>Show general overview of wallet</source>
         <translation>Näytä lompakon yleiskatsaus</translation>
     </message>
@@ -462,7 +464,27 @@ Copyright © 2014 AsiaCoin Developers
         <translation>&amp;Vaihda tunnuslause...</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+5"/>
+        <source>&amp;Lock wallet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Unlo&amp;ck wallet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Unlo&amp;ck wallet for mining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Unlock wallet for mining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <source>&amp;Export...</source>
         <translation>&amp;Vie...</translation>
     </message>
@@ -480,7 +502,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Vie tämänhetkisen välilehden sisältö tiedostoon</translation>
     </message>
     <message>
-        <location line="-14"/>
+        <location line="-22"/>
         <source>Encrypt or decrypt wallet</source>
         <translation>Salaa lompakko tai pura salaus lompakosta</translation>
     </message>
@@ -505,7 +527,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Vaihda lompakon salaukseen käytettävä tunnuslause</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+18"/>
         <source>&amp;Debug window</source>
         <translation>&amp;Testausikkuna</translation>
     </message>
@@ -515,7 +537,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>Avaa vianetsintä- ja diagnostiikkakonsoli</translation>
     </message>
     <message>
-        <location line="-5"/>
+        <location line="-17"/>
         <source>&amp;Verify message...</source>
         <translation>&amp;Vahvista viesti...</translation>
     </message>
@@ -524,7 +546,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="obsolete">Asiacoin</translation>
     </message>
     <message>
-        <location line="-191"/>
+        <location line="-187"/>
         <source>Wallet</source>
         <translation>Lompakko</translation>
     </message>
@@ -538,22 +560,21 @@ Copyright © 2014 AsiaCoin Developers
         <translation>&amp;Näytä / Piilota</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+16"/>
         <source>Unlock wallet</source>
         <translation>Avaa lompakon lukitus</translation>
     </message>
     <message>
-        <location line="+1"/>
         <source>&amp;Lock Wallet</source>
-        <translation>&amp;Lukitse Lompakko</translation>
+        <translation type="obsolete">&amp;Lukitse Lompakko</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-4"/>
         <source>Lock wallet</source>
         <translation>Lukitse lompakko</translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+42"/>
         <source>&amp;File</source>
         <translation>&amp;Tiedosto</translation>
     </message>
@@ -563,7 +584,12 @@ Copyright © 2014 AsiaCoin Developers
         <translation>&amp;Asetukset</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+1"/>
+        <source>&amp;Wallet security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
         <source>&amp;Help</source>
         <translation>&amp;Apua</translation>
     </message>
@@ -627,12 +653,11 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="obsolete">&amp;Lähetä</translation>
     </message>
     <message>
-        <location line="-95"/>
         <source>&amp;Unlock Wallet...</source>
-        <translation>&amp;Aukaise lompakko</translation>
+        <translation type="obsolete">&amp;Aukaise lompakko</translation>
     </message>
     <message>
-        <location line="+95"/>
+        <location line="+0"/>
         <location line="+60"/>
         <source>AsiaCoin client</source>
         <translation type="unfinished"></translation>
@@ -773,17 +798,17 @@ Osoite: %4</translation>
         <translation type="obsolete">Lompakko &lt;b&gt;ei ole salattu&lt;/b&gt;</translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+19"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
         <translation>Lompakko on &lt;b&gt;salattu&lt;/b&gt; ja tällä hetkellä &lt;b&gt;avoinna&lt;/b&gt;</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+19"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
         <translation>Lompakko on &lt;b&gt;salattu&lt;/b&gt; ja tällä hetkellä &lt;b&gt;lukittuna&lt;/b&gt;</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+31"/>
         <source>Backup Wallet</source>
         <translation>Varmuuskopioi lompakkosi</translation>
     </message>
@@ -1713,7 +1738,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location line="+53"/>
         <location line="+23"/>
         <location line="+23"/>
-        <location filename="../rpcconsole.cpp" line="+348"/>
+        <location filename="../rpcconsole.cpp" line="+350"/>
         <source>N/A</source>
         <translation>Ei saatavilla</translation>
     </message>

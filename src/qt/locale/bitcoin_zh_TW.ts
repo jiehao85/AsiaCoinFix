@@ -201,7 +201,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="obsolete">仅用于权益增值</translation>
     </message>
     <message>
-        <location filename="../askpassphrasedialog.cpp" line="+33"/>
+        <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -211,7 +211,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>加密錢包</translation>
     </message>
     <message>
-        <location line="+3"/>
+        <location line="+4"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
         <translation>這個動作需要你的錢包密碼來解鎖錢包。</translation>
     </message>
@@ -266,14 +266,14 @@ Copyright © 2014 AsiaCoin Developers
         <translation>重要: 請改用新產生有加密的錢包檔，來取代舊錢包檔的備份。為了安全性的理由，當你開始使用新的有加密的錢包後，舊錢包檔的備份就不能再使用了。</translation>
     </message>
     <message>
-        <location line="+100"/>
+        <location line="+113"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
         <translation>警告: 大寫字母鎖定作用中！</translation>
     </message>
     <message>
-        <location line="-130"/>
-        <location line="+58"/>
+        <location line="-143"/>
+        <location line="+70"/>
         <source>Wallet encrypted</source>
         <translation>錢包已加密</translation>
     </message>
@@ -282,32 +282,34 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="obsolete">黑幣客戶端即將關閉以完成加密過程。請記住，加密錢包並不能完全防止您的電子貨幣被入侵您計算機的木馬軟件盜竊。</translation>
     </message>
     <message>
-        <location line="-43"/>
+        <location line="-55"/>
         <location line="+7"/>
-        <location line="+42"/>
+        <location line="+54"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
         <translation>錢包加密失敗</translation>
     </message>
     <message>
-        <location line="-54"/>
+        <location line="-66"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
         <translation>因為內部錯誤導致錢包加密失敗。你的錢包還是沒加密。</translation>
     </message>
     <message>
         <location line="+7"/>
-        <location line="+48"/>
+        <location line="+60"/>
         <source>The supplied passphrases do not match.</source>
         <translation>提供的密碼不一樣。</translation>
     </message>
     <message>
-        <location line="-37"/>
+        <location line="-49"/>
+        <location line="+11"/>
         <source>Wallet unlock failed</source>
         <translation>錢包解鎖失敗</translation>
     </message>
     <message>
-        <location line="+1"/>
+        <location line="-10"/>
         <location line="+11"/>
+        <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
         <translation>輸入要用來解密錢包的密碼不對。</translation>
@@ -326,12 +328,12 @@ Copyright © 2014 AsiaCoin Developers
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <location filename="../bitcoingui.cpp" line="+264"/>
+        <location filename="../bitcoingui.cpp" line="+263"/>
         <source>Sign &amp;message...</source>
         <translation>簽署訊息...</translation>
     </message>
     <message>
-        <location line="-65"/>
+        <location line="-61"/>
         <source>Show general overview of wallet</source>
         <translation>顯示錢包一般總覽</translation>
     </message>
@@ -435,7 +437,27 @@ Copyright © 2014 AsiaCoin Developers
         <translation>改變密碼...</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+5"/>
+        <source>&amp;Lock wallet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Unlo&amp;ck wallet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+4"/>
+        <source>Unlo&amp;ck wallet for mining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Unlock wallet for mining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+3"/>
         <source>&amp;Export...</source>
         <translation>導出(&amp;E)</translation>
     </message>
@@ -449,7 +471,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="-14"/>
+        <location line="-22"/>
         <source>Encrypt or decrypt wallet</source>
         <translation type="unfinished"></translation>
     </message>
@@ -474,7 +496,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation>改變錢包加密用的密碼</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+18"/>
         <source>&amp;Debug window</source>
         <translation>除錯視窗</translation>
     </message>
@@ -484,12 +506,12 @@ Copyright © 2014 AsiaCoin Developers
         <translation>開啓除錯和診斷主控台</translation>
     </message>
     <message>
-        <location line="-5"/>
+        <location line="-17"/>
         <source>&amp;Verify message...</source>
         <translation>驗證訊息...</translation>
     </message>
     <message>
-        <location line="-191"/>
+        <location line="-187"/>
         <source>Wallet</source>
         <translation>錢包</translation>
     </message>
@@ -499,22 +521,17 @@ Copyright © 2014 AsiaCoin Developers
         <translation>顯示或隱藏</translation>
     </message>
     <message>
-        <location line="+9"/>
+        <location line="+16"/>
         <source>Unlock wallet</source>
         <translation type="unfinished">解鎖錢包</translation>
     </message>
     <message>
-        <location line="+1"/>
-        <source>&amp;Lock Wallet</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+1"/>
+        <location line="-4"/>
         <source>Lock wallet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+34"/>
+        <location line="+42"/>
         <source>&amp;File</source>
         <translation>檔案</translation>
     </message>
@@ -524,7 +541,12 @@ Copyright © 2014 AsiaCoin Developers
         <translation>設定</translation>
     </message>
     <message>
-        <location line="+8"/>
+        <location line="+1"/>
+        <source>&amp;Wallet security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location line="+9"/>
         <source>&amp;Help</source>
         <translation>說明</translation>
     </message>
@@ -559,12 +581,7 @@ Copyright © 2014 AsiaCoin Developers
         <translation type="obsolete">權益增值中 &lt;br&gt;您的權重爲 %1 &lt;br&gt;網絡總權重爲 %2&lt;br&gt;預計將在 %3 之後獲得收益</translation>
     </message>
     <message>
-        <location line="-95"/>
-        <source>&amp;Unlock Wallet...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location line="+95"/>
+        <location line="+0"/>
         <location line="+60"/>
         <source>AsiaCoin client</source>
         <translation type="unfinished"></translation>
@@ -692,17 +709,17 @@ Address: %4
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location line="+18"/>
+        <location line="+19"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
         <translation>錢包&lt;b&gt;已加密&lt;/b&gt;並且&lt;b&gt;解鎖中&lt;/b&gt;</translation>
     </message>
     <message>
-        <location line="+10"/>
+        <location line="+19"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
         <translation>錢包&lt;b&gt;已加密&lt;/b&gt;並且&lt;b&gt;上鎖中&lt;/b&gt;</translation>
     </message>
     <message>
-        <location line="+25"/>
+        <location line="+31"/>
         <source>Backup Wallet</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1500,7 +1517,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+53"/>
         <location line="+23"/>
         <location line="+23"/>
-        <location filename="../rpcconsole.cpp" line="+348"/>
+        <location filename="../rpcconsole.cpp" line="+350"/>
         <source>N/A</source>
         <translation>未知</translation>
     </message>

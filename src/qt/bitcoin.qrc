@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/icons">
+        <file alias="mining_active">res/icons/mining_active.png</file>
         <file alias="bitcoin">res/icons/AsiaCoin-128.png</file>
         <file alias="address-book">res/icons/address-book.png</file>
         <file alias="quit">res/icons/quit.png</file>

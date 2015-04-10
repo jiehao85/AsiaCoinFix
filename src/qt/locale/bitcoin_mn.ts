@@ -441,16 +441,8 @@ Address: %4
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Unlock Wallet...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unlock wallet</source>
         <translation type="unfinished">Түрүйвчийн цоожийг тайлах</translation>
-    </message>
-    <message>
-        <source>&amp;Lock Wallet</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Lock wallet</source>
@@ -580,6 +572,26 @@ Address: %4
     </message>
     <message>
         <source>There was an error trying to save the wallet data to the new location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Lock wallet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlo&amp;ck wallet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlo&amp;ck wallet for mining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unlock wallet for mining</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Wallet security</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
