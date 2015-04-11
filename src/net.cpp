@@ -1598,6 +1598,7 @@ void static StartSync(const vector<CNode*> &vNodes) {
     if (pnodeNewSync) {
         pnodeNewSync->fStartSync = true;
         pnodeSync = pnodeNewSync;
+        printf("Setting peer=%s as syncnode.\n", pnodeSync->addr.ToString().c_str());
     }
 }
 
